@@ -20,23 +20,23 @@ News
 
 Selected Publications
 ======
-\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=c9YyMSEAAAAJ&hl=en)\]
+\[[Google Scholar](https://scholar.google.com/citations?user=c9YyMSEAAAAJ&hl=en)\]
 
 * Adaptive Kernel Graph Neural Network <br>
   **<u>M. Ju</u>**, S. Hou, Y. Fan, J. Zhao, Y. Ye, L. Zhao <br>
-  AAAI 22 \[[pdf](https://www.aaai.org/AAAI22Papers/AAAI-3877.JuM.pdf)\] \[[code](https://github.com/jumxglhf/AKGNN)\] -->
+  AAAI 22 \[[pdf](https://www.aaai.org/AAAI22Papers/AAAI-3877.JuM.pdf)\] \[[code](https://github.com/jumxglhf/AKGNN)\]
 
 * Dr.Emotion: Disentangled Representation Learning for Emotion Analysis on Social Media to Improve Community Resilience in the COVID-19 Era and Beyond <br>
   **<u>M. Ju</u>**, W. Song, S. Sun, Y. Ye, Y. Fan, K. Loparo, L. Zhao <br>
-  WWW 21 \[[pdf](https://dl.acm.org/doi/abs/10.1145/3442381.3449961)\] \[[code](https://github.com/www2021DrEmotion/www2021DrEmotion)\] -->
+  WWW 21 \[[pdf](https://dl.acm.org/doi/abs/10.1145/3442381.3449961)\] \[[code](https://github.com/www2021DrEmotion/www2021DrEmotion)\]
 
 * Heterogeneous Temporal Graph Neural Network <br>
   Y. Fan, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>
-  SDM 22 \[[pdf](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.74)\] \[[code](https://github.com/YesLab-Code/HTGNN)\] -->
+  SDM 22 \[[pdf](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.74)\] \[[code](https://github.com/YesLab-Code/HTGNN)\]
 
 * Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection <br>
   Y. Fan, **<u>M. Ju</u>**, S. Hou, Y. Ye, W. Wan, K. Wang, Y. Mei, Q. Xiong <br>
-  KDD 21 (Applied Data Science Track) \[[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467168)\]  -->
+  KDD 21 (Applied Data Science Track) \[[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467168)\]
 
 Contact
 ======
