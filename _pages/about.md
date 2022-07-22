@@ -20,7 +20,7 @@ News
 
 Selected Publications
 ======
-\[[Google Scholar](https://scholar.google.com/citations?user=c9YyMSEAAAAJ&hl=en)\]
+\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=c9YyMSEAAAAJ&hl=en)\]
 
 * Adaptive Kernel Graph Neural Network <br>
   **<u>M. Ju</u>**, S. Hou, Y. Fan, J. Zhao, Y. Ye, L. Zhao <br>
