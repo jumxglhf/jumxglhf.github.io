@@ -12,6 +12,7 @@ I'm currently a third-year Ph.D. candidate (2020 Summer - Now) in Computer Scien
 
 My research interest lies in graph machine learning and natural language processing. Specifically, for graph machine learning, I am working on semi-supervised and self-supervised node representation learning via graph neural networks. And for natural language processing, I am exploring augmenting langauge models with structured knowledge for various language generation tasks such as open-domain question answering. 
 
+P.S. I am actively look for research scientist intern for Summer 2023. If you are interested in hosting me, please send me an email and we can have a talk!
 News
 ======
 
