@@ -7,13 +7,26 @@ author_profile: true
 
 **Pre-prints**
 
+* Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
+  **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu, N. Shah, Y. Ye, C. Zhang <br>
+  Arxiv 2022.10 <br>
+  \[[pdf](https://arxiv.org/abs/2210.02016)\] \[[code coming soon](https://arxiv.org/abs/2210.02016)\]
+
+* Generate rather than Retrieve: Large Language Models are Strong Context Generators <br>
+  W. Yu, D. Iter, S. Wang, Y. Xu, **<u>M. Ju</u>**, S. Sanyal, C. Zhu, M. Zeng, M. Jiang<br>
+  Arxiv 2022.9 <br>
+  \[[pdf](https://arxiv.org/pdf/2209.10063)\] \[[code coming soon](https://arxiv.org/pdf/2209.10063)\]
+
 * Black-box Node Injection Attack for Graph Neural Networks <br>
   **<u>M. Ju</u>**, Y. Fan, Y. Ye, L. Zhao <br>
   Arxiv 2022.2 <br>
   \[[pdf](https://arxiv.org/pdf/2202.09389)\] \[[code](https://github.com/jumxglhf/GA2C)\]
 
-
 **Conference Papers**
+
+* Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
+  **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
+  EMNLP 22 (Findings) \[[pdf](https://www.aaai.org/AAAI22Papers/AAAI-3877.JuM.pdf)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
 
 * Heterogeneous Temporal Graph Neural Network <br>
   Y. Fan, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>

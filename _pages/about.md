@@ -16,6 +16,8 @@ P.S. I am actively looking for research scientist intern for Summer 2023. If you
 
 News
 ======
+* \[2022.10\] One first-authored paper on open-domain question answering has been accepted to EMNLP'22. Big thanks to my collaborators and mentors!
+* \[2022.10\] Two amazing pre-prints are now available. One focuses on graph self-supervised learning and the other is about context generation for open-domain QA ! Please feel free to contact me if you have any comments or suggestions over the manuscripts.
 * \[2022.08\] I will serve as a PC member for AAAI'23. 
 * \[2022.08\] I will attend KDD'22 and volunteer to serve as a session chair. See you guys at Washington DC!
 * \[2022.07\] I have my personal website now :)
@@ -23,6 +25,10 @@ News
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=c9YyMSEAAAAJ&hl=en)\]
+
+* Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
+  **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
+  EMNLP 22 (Findings) \[[pdf](https://github.com/jumxglhf/GRAPE)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
 
 * Adaptive Kernel Graph Neural Network <br>
   **<u>M. Ju</u>**, S. Hou, Y. Fan, J. Zhao, Y. Ye, L. Zhao <br>
@@ -39,6 +45,8 @@ Selected Publications
 * Heterogeneous Temporal Graph Transformer: An Intelligent System for Evolving Android Malware Detection <br>
   Y. Fan, **<u>M. Ju</u>**, S. Hou, Y. Ye, W. Wan, K. Wang, Y. Mei, Q. Xiong <br>
   KDD 21 (Applied Data Science Track) \[[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467168)\]
+
+\* stands for equal contribution.
 
 Contact
 ======
