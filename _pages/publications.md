@@ -26,7 +26,7 @@ author_profile: true
 
 * Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
   **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
-  EMNLP 22 (Findings) \[[pdf](https://www.aaai.org/AAAI22Papers/AAAI-3877.JuM.pdf)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
+  EMNLP 22 (Findings) \[[pdf](http://arxiv.org/abs/2210.02933)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
 
 * Heterogeneous Temporal Graph Neural Network <br>
   Y. Fan, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>

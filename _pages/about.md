@@ -28,7 +28,7 @@ Selected Publications
 
 * Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
   **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
-  EMNLP 22 (Findings) \[[pdf](https://github.com/jumxglhf/GRAPE)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
+  EMNLP 22 (Findings) \[[pdf](http://arxiv.org/abs/2210.02933)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
 
 * Adaptive Kernel Graph Neural Network <br>
   **<u>M. Ju</u>**, S. Hou, Y. Fan, J. Zhao, Y. Ye, L. Zhao <br>
