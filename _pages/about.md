@@ -16,10 +16,10 @@ P.S. I am actively looking for research scientist intern for Summer 2023. If you
 
 News
 ======
+* \[2022.10\] I will serve as a PC member for WWW'23.
 * \[2022.10\] One first-authored paper on open-domain question answering has been accepted to EMNLP'22. Big thanks to my collaborators and mentors!
 * \[2022.10\] Two amazing pre-prints are now available. One focuses on graph self-supervised learning and the other is about context generation for open-domain QA ! Please feel free to contact me if you have any comments or suggestions over the manuscripts.
 * \[2022.08\] I will serve as a PC member for AAAI'23. 
-* \[2022.08\] I will attend KDD'22 and volunteer to serve as a session chair. See you guys at Washington DC!
 * \[2022.07\] I have my personal website now :)
 
 Selected Publications
