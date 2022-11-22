@@ -17,12 +17,16 @@ author_profile: true
   Arxiv 2022.9 <br>
   \[[pdf](https://arxiv.org/pdf/2209.10063)\] \[[code coming soon](https://arxiv.org/pdf/2209.10063)\]
 
-* Black-box Node Injection Attack for Graph Neural Networks <br>
-  **<u>M. Ju</u>**, Y. Fan, Y. Ye, L. Zhao <br>
-  Arxiv 2022.2 <br>
-  \[[pdf](https://arxiv.org/pdf/2202.09389)\] \[[code](https://github.com/jumxglhf/GA2C)\]
 
 **Conference Papers**
+
+* Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning <br>
+  **<u>M. Ju</u>**, Y. Fan, C. Zhang, Y. Ye <br>
+  AAAI 23 \[[pdf](https://arxiv.org/abs/2211.10782)\] \[[code](https://github.com/jumxglhf/G2A2C)\]
+
+* Self-Supervised Graph Structure Refinement for Graph Neural Networks <br>
+  J. Zhao, Q. Wen, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>
+  WSDM 23 \[[pdf](https://arxiv.org/abs/2211.06545)\] \[[code](https://github.com/AndyJZhao/WSDM23-GSR)\]
 
 * Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
   **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
