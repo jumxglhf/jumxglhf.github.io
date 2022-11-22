@@ -29,7 +29,7 @@ Selected Publications
 
 * Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning <br>
   **<u>M. Ju</u>**, Y. Fan, C. Zhang, Y. Ye <br>
-  AAAI 23 \[[pdf](https://arxiv.org/abs/2211.10782)\] \[[code](https://github.com/jumxglhf/G2A2C)\]
+  AAAI 23 \[[pdf](https://arxiv.org/pdf/2211.10782.pdf)\] \[[code](https://github.com/jumxglhf/G2A2C)\]
 
 * Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
   **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
