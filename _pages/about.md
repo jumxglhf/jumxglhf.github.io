@@ -12,10 +12,11 @@ I'm currently a third-year Ph.D. candidate (2020 Summer - Now) in Computer Scien
 
 My research interest lies in graph machine learning and natural language processing. Specifically, for graph machine learning, I am working on semi-supervised and self-supervised node representation learning via graph neural networks. And for natural language processing, I am exploring augmenting langauge models with structured knowledge for various language generation tasks such as open-domain question answering. 
 
-P.S. I am actively looking for research scientist intern for Summer 2023. If you are interested in hosting me, please send me an email and we can have a talk!
+<!-- P.S. I am actively looking for research scientist intern for Summer 2023. If you are interested in hosting me, please send me an email and we can have a talk! -->
 
 News
 ======
+* \[2022.12\] I will join [Snap Research](https://research.snap.com) as a research intern for Summar 2023, mentored by [Dr. Tong Zhao](https://tzhao.io) and [Dr. Neil Shah](https://nshah.net).  
 * \[2022.11\] One first-authored paper about graph adversarial attack has been accepted to AAAI'23.
 * \[2022.10\] I will serve as a PC member for WWW'23.
 * \[2022.10\] One first-authored paper on open-domain question answering has been accepted to EMNLP'22. Big thanks to my collaborators and mentors!
