@@ -10,9 +10,9 @@ author_profile: true
 **Conference Papers**
 
 * Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
-  **<u>M. Ju</u>**, T. Zhao, Q. Wen, N. Shah, Y. Ye, C. Zhang <br>
+  **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu, N. Shah, Y. Ye, C. Zhang <br>
   ICLR 23 \[[pdf](https://openreview.net/forum?id=1tHAZRqftM)\] \[[code](https://openreview.net/forum?id=1tHAZRqftM)\]
-  
+
 * Generate rather than Retrieve: Large Language Models are Strong Context Generators <br>
   W. Yu, D. Iter, S. Wang, Y. Xu, **<u>M. Ju</u>**, S. Sanyal, C. Zhu, M. Zeng, M. Jiang<br>
   ICLR 23 \[[pdf](ttps://openreview.net/forum?id=fB0hRu9GZUS)\] \[[code](ttps://openreview.net/forum?id=fB0hRu9GZUS)\]
