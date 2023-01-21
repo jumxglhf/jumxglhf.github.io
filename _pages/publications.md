@@ -5,20 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-**Pre-prints**
-
-* Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
-  **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu, N. Shah, Y. Ye, C. Zhang <br>
-  Arxiv 2022.10 <br>
-  \[[pdf](https://arxiv.org/abs/2210.02016)\] \[[code coming soon](https://arxiv.org/abs/2210.02016)\]
-
-* Generate rather than Retrieve: Large Language Models are Strong Context Generators <br>
-  W. Yu, D. Iter, S. Wang, Y. Xu, **<u>M. Ju</u>**, S. Sanyal, C. Zhu, M. Zeng, M. Jiang<br>
-  Arxiv 2022.9 <br>
-  \[[pdf](https://arxiv.org/pdf/2209.10063)\] \[[code coming soon](https://arxiv.org/pdf/2209.10063)\]
-
+<!-- **Pre-prints** -->
 
 **Conference Papers**
+
+* Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
+  **<u>M. Ju</u>**, T. Zhao, Q. Wen, N. Shah, Y. Ye, C. Zhang <br>
+  ICLR 23 \[[pdf](https://openreview.net/forum?id=1tHAZRqftM)\] \[[code](https://openreview.net/forum?id=1tHAZRqftM)\]
+  
+* Generate rather than Retrieve: Large Language Models are Strong Context Generators <br>
+  W. Yu, D. Iter, S. Wang, Y. Xu, **<u>M. Ju</u>**, S. Sanyal, C. Zhu, M. Zeng, M. Jiang<br>
+  ICLR 23 \[[pdf](ttps://openreview.net/forum?id=fB0hRu9GZUS)\] \[[code](ttps://openreview.net/forum?id=fB0hRu9GZUS)\]
+
+* Chasing All-Round Graph Representation Robustness: Model, Training, and Optimization <br>
+  C. Zhang, Y. Tian, **<u>M. Ju</u>**, Z. Liu, Y. Ye, N. Chawla,  C. Zhang<br>
+  ICLR 23 \[[pdf](https://openreview.net/forum?id=7jk5gWjC18M)\] \[[code](https://openreview.net/forum?id=7jk5gWjC18M)\]
 
 * Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning <br>
   **<u>M. Ju</u>**, Y. Fan, C. Zhang, Y. Ye <br>
