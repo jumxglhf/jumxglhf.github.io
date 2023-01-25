@@ -31,7 +31,7 @@ Selected Publications
 
 * Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
   **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu,  N. Shah, Y. Ye, C. Zhang <br>
-  ICLR 23 \[[pdf](https://openreview.net/forum?id=1tHAZRqftM)\] \[[code](https://openreview.net/forum?id=1tHAZRqftM)\]
+  ICLR 23 \[[pdf](https://openreview.net/forum?id=1tHAZRqftM)\] \[[code](https://github.com/jumxglhf/ParetoGNN)\]
 
 * Let Graph be the Go Board: Gradient-free Node Injection Attack for Graph Neural Networks via Reinforcement Learning <br>
   **<u>M. Ju</u>**, Y. Fan, C. Zhang, Y. Ye <br>
