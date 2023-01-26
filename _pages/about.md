@@ -16,13 +16,14 @@ My research interest lies in graph machine learning and natural language process
 
 News
 ======
+* \[2023.01\] Thrilled to receive AAAI-23 student scholar. Thanks AAAI!
 * \[2023.01\] Three papers are accepted to ICLR'23! One first-authored one studies [multi-task self-suerpvised graph learning](https://openreview.net/forum?id=1tHAZRqftM). The others study [large language models for QA](https://openreview.net/forum?id=fB0hRu9GZUS) and [graph adversarial learning](https://openreview.net/forum?id=7jk5gWjC18M). Congrats to everyone involved!
 * \[2022.12\] I will join [Snap Research](https://research.snap.com) as a research intern for Summar 2023, mentored by [Dr. Tong Zhao](https://tzhao.io) and [Dr. Neil Shah](https://nshah.net).  
 * \[2022.11\] One first-authored paper about graph adversarial attack has been accepted to AAAI'23.
-* \[2022.10\] I will serve as a PC member for WWW'23.
+<!-- * \[2022.10\] I will serve as a PC member for WWW'23. -->
 * \[2022.10\] One first-authored paper on open-domain question answering has been accepted to EMNLP'22. Big thanks to my collaborators and mentors!
 <!-- * \[2022.10\] Two amazing pre-prints are now available. One focuses on graph self-supervised learning and the other is about context generation for open-domain QA ! Please feel free to contact me if you have any comments or suggestions over the manuscripts. -->
-* \[2022.08\] I will serve as a PC member for AAAI'23. 
+<!-- * \[2022.08\] I will serve as a PC member for AAAI'23.  -->
 <!-- * \[2022.07\] I have my personal website now :) -->
 
 Selected Publications
