@@ -16,6 +16,7 @@ My research interest lies in graph machine learning and natural language process
 
 News
 ======
+* \[2023.04\] I will serve as PCs for KDD'23 and NeurIPS'23. 
 * \[2023.01\] Thrilled to receive AAAI-23 student scholar. Thanks AAAI!
 * \[2023.01\] Three papers are accepted to ICLR'23! One first-authored one studies [multi-task self-suerpvised graph learning](https://openreview.net/forum?id=1tHAZRqftM). The others study [large language models for QA](https://openreview.net/forum?id=fB0hRu9GZUS) and [graph adversarial learning](https://openreview.net/forum?id=7jk5gWjC18M). Congrats to everyone involved!
 * \[2022.12\] I will join [Snap Research](https://research.snap.com) as a research intern for Summar 2023, mentored by [Dr. Tong Zhao](https://tzhao.io) and [Dr. Neil Shah](https://nshah.net).  
