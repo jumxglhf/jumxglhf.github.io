@@ -29,7 +29,7 @@ News
 
 Selected Publications
 ======
-\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?user=c9YyMSEAAAAJ&hl=en)\]
+\[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
 
 * Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
   **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu,  N. Shah, Y. Ye, C. Zhang <br>
