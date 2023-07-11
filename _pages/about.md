@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a third-year Ph.D. candidate (2020 Summer - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
+I'm currently a fourth-year Ph.D. candidate (2020 Summer - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
 My research interest lies in graph machine learning and natural language processing. Specifically, for graph machine learning, I am working on semi-supervised and self-supervised node representation learning via graph neural networks. And for natural language processing, I am exploring augmenting langauge models with structured knowledge for various language generation tasks such as open-domain question answering. 
 
@@ -60,6 +60,6 @@ Selected Publications
 Contact
 ======
 
-* Email: mju2 \[at\] nd \[dot\] edu
+* Email: mju2 \[at\] nd \[dot\] edu; mxj255 \[at\] case \[dot\] edu (deprecated)
 * Office: 247 Fitzpatrick Hall of Engineering
 * Location: University of Notre Dame, Notre Dame, IN 46565
