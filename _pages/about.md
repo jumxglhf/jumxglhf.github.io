@@ -10,9 +10,10 @@ redirect_from:
 
 I'm currently a fourth-year Ph.D. candidate (2020 Summer - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
-My research interest lies in graph machine learning and natural language processing. Specifically, for graph machine learning, I am working on semi-supervised and self-supervised node representation learning via graph neural networks. And for natural language processing, I am exploring augmenting langauge models with structured knowledge for various language generation tasks such as open-domain question answering. 
+My research interest lies in graph machine learning, recommender systems, and natural language processing. 
+I especially enjoy deriving graph learning solutions (simple, efficient, and effective) to solve real-world problems, such as product/friend recommendation, user behavior modeling, and question answering.
 
-<!-- P.S. I am actively looking for research scientist intern for Summer 2023. If you are interested in hosting me, please send me an email and we can have a talk! -->
+P.S. I am actively looking for full-time research scientist jobs starting Summer 2024. If you are interested in hosting me, please send me an email and we can have a talk!
 
 News
 ======
@@ -28,6 +29,14 @@ News
 <!-- * \[2022.10\] Two amazing pre-prints are now available. One focuses on graph self-supervised learning and the other is about context generation for open-domain QA ! Please feel free to contact me if you have any comments or suggestions over the manuscripts. -->
 <!-- * \[2022.08\] I will serve as a PC member for AAAI'23.  -->
 <!-- * \[2022.07\] I have my personal website now :) -->
+
+Professional Experiences
+======
+* Research Intern, [Snap Research](https://research.snap.com), Seattle, WA, USA <br>
+Focus: Efficient Graph Neural Networks for Recommender Systems <br>
+Mentors: [Tong Zhao](https://tzhao.io), [Neil Shah](https://nshah.net), and [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en) <br>
+June - September, 2023 
+
 
 Selected Publications
 ======
