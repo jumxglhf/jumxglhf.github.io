@@ -16,6 +16,8 @@ My research interest lies in graph machine learning and natural language process
 
 News
 ======
+* \[2023.09\] One first-authored paper about test-time augmentation for GNNs has been accepted to NeurIPS'23. 
+* \[2023.09\] I will serve as PCs for ICLR'24, WWW'24, SDM'24, and AAAI'24. 
 * \[2023.04\] I will serve as PCs for KDD'23 and NeurIPS'23. 
 * \[2023.01\] Thrilled to receive AAAI-23 student scholar. Thanks AAAI!
 * \[2023.01\] Three papers are accepted to ICLR'23! One first-authored one studies [multi-task self-suerpvised graph learning](https://openreview.net/forum?id=1tHAZRqftM). The others study [large language models for QA](https://openreview.net/forum?id=fB0hRu9GZUS) and [graph adversarial learning](https://openreview.net/forum?id=7jk5gWjC18M). Congrats to everyone involved!
@@ -30,6 +32,10 @@ News
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
+
+* GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
+  **<u>M. Ju</u>**, T. Zhao, W. Yu, N. Shah, Y. Ye <br>
+  NeurIPS 23 \[[coming soon](https://jumxglhf.github.io)\] \[[coming soon](https://jumxglhf.github.io)\]
 
 * Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
   **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu,  N. Shah, Y. Ye, C. Zhang <br>

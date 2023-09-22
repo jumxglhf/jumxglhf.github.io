@@ -9,6 +9,10 @@ author_profile: true
 
 **Conference Papers**
 
+* GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
+  **<u>M. Ju</u>**, T. Zhao, W. Yu, N. Shah, Y. Ye <br>
+  NeurIPS 23 \[[coming soon](https://jumxglhf.github.io)\] \[[coming soon](https://jumxglhf.github.io)\]
+
 * Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
   **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu, N. Shah, Y. Ye, C. Zhang <br>
   ICLR 23 \[[pdf](https://openreview.net/forum?id=1tHAZRqftM)\] \[[code](https://github.com/jumxglhf/ParetoGNN)\]
