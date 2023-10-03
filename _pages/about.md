@@ -17,7 +17,7 @@ P.S. I am actively looking for full-time research scientist jobs starting Summer
 
 News
 ======
-* \[2023.09\] One first-authored paper about test-time augmentation for GNNs has been accepted to NeurIPS'23. 
+* \[2023.09\] One [first-authored paper](https://arxiv.org/abs/2310.00800) about test-time augmentation for GNNs has been accepted to NeurIPS'23. See you in New Orleans.
 * \[2023.09\] I will serve as PCs for ICLR'24, WWW'24, SDM'24, and AAAI'24. 
 * \[2023.04\] I will serve as PCs for KDD'23 and NeurIPS'23. 
 * \[2023.01\] Thrilled to receive AAAI-23 student scholar. Thanks AAAI!
@@ -62,9 +62,9 @@ Selected Publications
   **<u>M. Ju</u>**, S. Hou, Y. Fan, J. Zhao, Y. Ye, L. Zhao <br>
   AAAI 22 \[[pdf](https://www.aaai.org/AAAI22Papers/AAAI-3877.JuM.pdf)\] \[[code](https://github.com/jumxglhf/AKGNN)\]
 
-* Dr.Emotion: Disentangled Representation Learning for Emotion Analysis on Social Media to Improve Community Resilience in the COVID-19 Era and Beyond <br>
+<!-- * Dr.Emotion: Disentangled Representation Learning for Emotion Analysis on Social Media to Improve Community Resilience in the COVID-19 Era and Beyond <br>
   **<u>M. Ju</u>**, W. Song, S. Sun, Y. Ye, Y. Fan, S. Hou, K. Loparo, L. Zhao <br>
-  WWW 21 \[[pdf](https://dl.acm.org/doi/abs/10.1145/3442381.3449961)\] \[[code](https://github.com/www2021DrEmotion/www2021DrEmotion)\]
+  WWW 21 \[[pdf](https://dl.acm.org/doi/abs/10.1145/3442381.3449961)\] \[[code](https://github.com/www2021DrEmotion/www2021DrEmotion)\] -->
 
 * Heterogeneous Temporal Graph Neural Network <br>
   Y. Fan, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>

@@ -33,6 +33,10 @@ author_profile: true
   J. Zhao, Q. Wen, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>
   WSDM 23 \[[pdf](https://arxiv.org/abs/2211.06545)\] \[[code](https://github.com/AndyJZhao/WSDM23-GSR)\]
 
+* Leveraing Comment Retrieval for Code Summarization <br>
+  S. Hou, L. Chen, **<u>M. Ju</u>**, Y. Ye <br>
+  WSDM 23 \[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_34)\] 
+
 * Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
   **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
   EMNLP 22 (Findings) \[[pdf](http://arxiv.org/abs/2210.02933)\] \[[code](https://github.com/jumxglhf/GRAPE)\]
@@ -66,6 +70,10 @@ author_profile: true
   Big Data 18 (3rd place award for FEMH Challenge) \[[pdf](https://ieeexplore.ieee.org/abstract/document/8622093/)\] \[[code](https://github.com/jumxglhf/ieee_audio)\] 
 
 **Journal Papers**
+
+* Exploring Contrast Consistency of Open-domain Question Answering Systems on Minimally Edited Questions <br>
+  Z. Zhang, W. Yu, Z. Ning,  **<u>M. Ju</u>**, M. Jiang <br>
+  TACL, 2023 \[[pdf](https://arxiv.org/pdf/2305.14441.pdf)\]  \[[code](https://github.com/ytyz1307zzh/Minimally_Edited_Questions)\] 
 
 * a-Satellite: An AI-Driven System and Benchmark Datasets for Dynamic COVID-19 Risk Assessment in the United States <br>
   Y. Ye, S. Hou, Y. Fan, Y. Zhang, Y. Qian, S. Sun, Q. Peng, **<u>M. Ju</u>**, W. Song, K. Loparo <br>
