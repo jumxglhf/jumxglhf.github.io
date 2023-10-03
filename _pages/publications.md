@@ -35,7 +35,7 @@ author_profile: true
 
 * Leveraing Comment Retrieval for Code Summarization <br>
   S. Hou, L. Chen, **<u>M. Ju</u>**, Y. Ye <br>
-  WSDM 23 \[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_34)\] 
+  ECIR 23 \[[pdf](https://link.springer.com/chapter/10.1007/978-3-031-28238-6_34)\] 
 
 * Grape: Knowledge Graph Enhance Passage Reader for Open-domain Question Answering <br>
   **<u>M. Ju</u>**\*, W. Yu\*, T. Zhao, C. Zhang, Y. Ye <br>
