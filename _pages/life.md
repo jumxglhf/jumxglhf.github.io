@@ -1,9 +1,8 @@
-
-
 ---
+layout: archive
+title: "My Life"
 permalink: /life/
-title: My Life
-layout: single
+author_profile: true
 ---
 Besides research, I enjoy playing video games, fishing, cooking, and photography. 
 
