@@ -75,6 +75,6 @@ Selected Publications
 Contact
 ======
 
-* Email: mju2 \[at\] nd \[dot\] edu; mxj255 \[at\] case \[dot\] edu (deprecated)
+* Email: mju2 \[at\] nd \[dot\] edu
 * Office: 247 Fitzpatrick Hall of Engineering
 * Location: University of Notre Dame, Notre Dame, IN 46565
