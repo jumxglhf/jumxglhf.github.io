@@ -44,7 +44,7 @@ Selected Publications
 
 * GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
   **<u>M. Ju</u>**, T. Zhao, W. Yu, N. Shah, Y. Ye <br>
-  NeurIPS 23 \[[pdf](https://arxiv.org/abs/2310.00800)\] \[[code](https://github.com/jumxglhf/GraphPatcher)\]
+  NeurIPS 23 \[[pdf](../files/NeurIPS2023.pdf)\] \[[code](https://github.com/jumxglhf/GraphPatcher)\]
 
 * Multi-task Self-supervised Graph Neural Networks Enable Stronger Task Generalization <br>
   **<u>M. Ju</u>**, T. Zhao, Q. Wen, W. Yu,  N. Shah, Y. Ye, C. Zhang <br>
