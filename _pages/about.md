@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a fourth-year Ph.D. candidate (2020 Summer - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
+I'm currently a final year Ph.D. candidate (2020 Summer - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
 My research interest lies in graph machine learning, recommender systems, and natural language processing. 
 I especially enjoy deriving graph learning solutions (simple, efficient, and effective) to solve real-world problems, such as product/friend recommendation, user behavior modeling, and question answering.
 
-P.S. I am actively looking for full-time research scientist jobs starting Summer 2024. If you are interested in hosting me, please send me an email and we can have a talk!
+I will join [Snap Research](https://research.snap.com) as a full-time research engineer, following my graduate next year. I will work in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team and continue my research on graph machine learning and recommender systems. 
+<!-- P.S. I am actively looking for full-time research scientist jobs starting Summer 2024. If you are interested in hosting me, please send me an email and we can have a talk! -->
 
 News
 ======
