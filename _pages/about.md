@@ -13,7 +13,7 @@ I'm currently a final year Ph.D. candidate (2020 Summer - Now) in Computer Scien
 My research interest lies in graph machine learning, recommender systems, and natural language processing. 
 I especially enjoy deriving graph learning solutions (simple, efficient, and effective) to solve real-world problems, such as product/friend recommendation, user behavior modeling, and question answering.
 
-I will join [Snap Research](https://research.snap.com) as a full-time research engineer, following my graduate next year. I will work in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team and continue my research on graph machine learning and recommender systems. 
+I will join [Snap Research](https://research.snap.com) as a full-time research engineer, following my graduation next year. I will work in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team and continue my research on graph machine learning and recommender systems. 
 <!-- P.S. I am actively looking for full-time research scientist jobs starting Summer 2024. If you are interested in hosting me, please send me an email and we can have a talk! -->
 
 News
