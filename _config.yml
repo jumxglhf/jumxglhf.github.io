@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mingxuan Ju's Homepage"
+title                    : "Clark Mingxuan Ju's Homepage"
 title_separator          : "-"
 name                     : &name "Clark Mingxuan Ju"
-description              : &description "Ph.D. student at University of Notre Dame"
+description              : &description "Research Engineer at Snap Inc."
 url                      : https://jumxglhf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jumxglhf.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Clark Mingxuan Ju"
   avatar           : "profile.png"
-  bio              : "CS Ph.D. student at University of Notre Dame"
-  location         : "Notre Dame, IN USA"
+  bio              : "Research Engineer at Snap Inc."
+  location         : "Bellevue, WA USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ"

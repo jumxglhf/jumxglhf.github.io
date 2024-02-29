@@ -8,16 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a final year Ph.D. candidate (2020 Summer - Now) in Computer Science and Engineering at the [University of Notre Dame](https://www.nd.edu/), advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
+I am a research engineer in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My work focuses on graph machine learning, recommender systems, representation learning, and user modeling. I expect to receive a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
-My research interest lies in graph machine learning, recommender systems, and natural language processing. 
+<!-- My research interest lies in graph machine learning, recommender systems, and natural language processing. 
 I especially enjoy deriving graph learning solutions (simple, efficient, and effective) to solve real-world problems, such as product/friend recommendation, user behavior modeling, and question answering.
 
-I will join [Snap Research](https://research.snap.com) as a full-time research engineer, following my graduation next year. I will work in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team and continue my research on graph machine learning and recommender systems. 
+I will join [Snap Research](https://research.snap.com) as a full-time research engineer, following my graduation next year. I will work in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team and continue my research on graph machine learning and recommender systems.  -->
 <!-- P.S. I am actively looking for full-time research scientist jobs starting Summer 2024. If you are interested in hosting me, please send me an email and we can have a talk! -->
 
 News
 ======
+* \[2024.03\] I joined Snap Research as a research enginner. 
 * \[2023.09\] One [first-authored paper](https://arxiv.org/abs/2310.00800) about test-time augmentation for GNNs has been accepted to NeurIPS'23. See you in New Orleans.
 * \[2023.09\] I will serve as PCs for ICLR'24, WWW'24, SDM'24, and AAAI'24. 
 <!-- * \[2023.04\] I will serve as PCs for KDD'23 and NeurIPS'23.  -->
@@ -33,6 +34,12 @@ News
 
 Professional Experiences
 ======
+
+* Research Engineer, [Snap Research](https://research.snap.com), Bellevue, WA, USA <br>
+Focus: Recommender Systems <br>
+Supervisor: [Neil Shah](https://nshah.net) <br>
+March, 2024 - Present  <br>
+
 * Research Intern, [Snap Research](https://research.snap.com), Seattle, WA, USA <br>
 Focus: Efficient Graph Neural Networks for Recommender Systems <br>
 Mentors: [Tong Zhao](https://tzhao.io), [Neil Shah](https://nshah.net), and [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en) <br>
