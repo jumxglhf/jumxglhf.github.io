@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My work focuses on graph machine learning, recommender systems, representation learning, and user modeling. I expect to receive a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. at [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
+I am a research engineer in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My work focuses on graph machine learning, recommender systems, representation learning, and user modeling. I expect to receive a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
 <!-- My research interest lies in graph machine learning, recommender systems, and natural language processing. 
 I especially enjoy deriving graph learning solutions (simple, efficient, and effective) to solve real-world problems, such as product/friend recommendation, user behavior modeling, and question answering.
@@ -83,6 +83,6 @@ Selected Publications
 Contact
 ======
 
-* Email: mju2 \[at\] nd \[dot\] edu
-* Office: 247 Fitzpatrick Hall of Engineering
-* Location: University of Notre Dame, Notre Dame, IN 46565
+* Snap Email: mju \[at\] snap \[dot\] com
+* ND Email: mju2 \[at\] nd \[dot\] edu
+* Location: 110 110th Ave NE, Bellevue, WA
