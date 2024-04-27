@@ -8,17 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My work focuses on graph machine learning, recommender systems, representation learning, and user modeling. I expect to receive a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
-
-<!-- My research interest lies in graph machine learning, recommender systems, and natural language processing. 
-I especially enjoy deriving graph learning solutions (simple, efficient, and effective) to solve real-world problems, such as product/friend recommendation, user behavior modeling, and question answering.
-
-I will join [Snap Research](https://research.snap.com) as a full-time research engineer, following my graduation next year. I will work in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team and continue my research on graph machine learning and recommender systems.  -->
-<!-- P.S. I am actively looking for full-time research scientist jobs starting Summer 2024. If you are interested in hosting me, please send me an email and we can have a talk! -->
+I am a research scientist in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My work focuses on graph machine learning, recommender systems, representation learning, and user modeling. I expect to receive a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
 News
 ======
-* \[2024.03\] I joined Snap Research as a research enginner. 
+* \[2024.03\] I joined Snap Research as a research scientist. 
 * \[2023.09\] One [first-authored paper](https://arxiv.org/abs/2310.00800) about test-time augmentation for GNNs has been accepted to NeurIPS'23. See you in New Orleans.
 * \[2023.09\] I will serve as PCs for ICLR'24, WWW'24, SDM'24, and AAAI'24. 
 <!-- * \[2023.04\] I will serve as PCs for KDD'23 and NeurIPS'23.  -->
