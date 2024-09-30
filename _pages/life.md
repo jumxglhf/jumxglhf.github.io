@@ -6,6 +6,56 @@ author_profile: true
 ---
 Besides research, I enjoy playing video games, fishing, cooking, and photography. 
 
+## Photography
+I always bring my camera while traveling. 
+
+<ul>
+    <li>
+        <p>
+            Grand Teton (Summer 2024, Teton, Wyoming)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo5.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Mt. Rainier (Summer 2024, Seattle, Washington)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo6.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Gold Creek Lake (Fall 2024, Seattle, Washington)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo7.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Flowers from an apple tree (should be apple tree, Summer 2022, Notre Dame, Indiana)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo1.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Basilica of the Sacred Heart at University of Notre Dame (Summer 2022, Notre Dame, Indiana)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo2.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Mt. Rainier (Summer 2023, Seattle, Washington)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo3.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Autumn season in Ohio (Fall 2016, Cleveland, Ohio)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo4.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+</ul>
+
+
+
 ## Video Games
 
 <ul>
@@ -49,33 +99,3 @@ I am foody and love to try cuisines across different regions and countries. Afte
 <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/food1.png?raw=true?source=d16d100b">
 <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/food2.png?raw=true?source=d16d100b">
 <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/food3.png?raw=true?source=d16d100b">
-
-## Photography
-I always bring my camera while traveling. 
-
-<ul>
-    <li>
-        <p>
-            Flowers from an apple tree (should be apple tree)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo1.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Basilica of the Sacred Heart at University of Notre Dame
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo2.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Mt. Rainier
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo3.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Autumn season in Ohio
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo4.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-</ul>

@@ -9,6 +9,14 @@ author_profile: true
 
 **Conference Papers**
 
+* How Does Message Passing Improve Collaborative Filtering?  <br>
+  **<u>M. Ju</u>**, W. Shiao, Z. Guo, Y. Ye, Y. Liu, N. Shah, T. Zhao <br>
+  NeurIPS 24 \[[pdf](https://arxiv.org/abs/2404.08660)\] \[[code](https://github.com/snap-research/Test-time-Aggregation-for-CF)\]
+
+* From Coarse to Fine: Enable Comprehensive Graph Self-supervised Learning with Multi-granular Semantic Ensemble <br>
+  Q. Wen, **<u>M. Ju</u>**, Z. Ouyang, C. Zhang, Y. Ye<br>
+  ICML 24 \[[pdf](https://openreview.net/forum?id=JnA9IveEwg)\] \[[code](https://github.com/HoytWen/MGSE)\]
+
 * GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
   **<u>M. Ju</u>**, T. Zhao, W. Yu, N. Shah, Y. Ye <br>
   NeurIPS 23 \[[pdf](../files/NeurIPS2023.pdf)\] \[[code](https://github.com/jumxglhf/GraphPatcher)\]
@@ -68,6 +76,12 @@ author_profile: true
 * A Multi-representation Ensemble Approach to Classifying Vocal Diseases <br>
   **<u>M. Ju</u>**, Z. Jiang, Y. Chen, S. Ray <br>
   Big Data 18 (3rd place award for FEMH Challenge) \[[pdf](https://ieeexplore.ieee.org/abstract/document/8622093/)\] \[[code](https://github.com/jumxglhf/ieee_audio)\] 
+
+**Workshop Papers**
+
+* Robust Training Objectives Improve Embedding-based Retrieval in Industrial Recommendation Systems <br>
+  M. Kolodner, **<u>M. Ju</u>**, Z. Fan, T. Zhao, E. Ghazizadeh, Y. Wu, N. Shah, Y. Liu
+  RobustRecSys@RecSys'24 \[[pdf](https://arxiv.org/abs/2409.14682)\]
 
 **Journal Papers**
 

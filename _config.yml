@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Clark Mingxuan Ju's Homepage"
 title_separator          : "-"
 name                     : &name "Clark Mingxuan Ju"
-description              : &description "Research Engineer at Snap Inc."
+description              : &description "Research Scientist at Snap Inc."
 url                      : https://jumxglhf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jumxglhf.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Clark Mingxuan Ju"
   avatar           : "profile.png"
-  bio              : "Research Engineer at Snap Inc."
+  bio              : "Research Scientist at Snap Inc."
   location         : "Bellevue, WA USA"
   employer         :
   pubmed           : 

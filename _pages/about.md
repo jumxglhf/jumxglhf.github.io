@@ -10,26 +10,30 @@ redirect_from:
 
 I am a research scientist in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My work focuses on graph machine learning, recommender systems, representation learning, and user modeling. I expect to receive a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
+I am actively seeking for talented Ph.D. students to do research related to recommendation systems and generative IR. If you are intereted in those topics and would like to collaborate with me, feel free to email me :). Our team at Snap Research also has multiple [openings](https://snap.submittable.com/submit) for reseasrch interns for 2025.
+
 News
 ======
+* \[2024.09\] One [first-authored paper](https://arxiv.org/abs/2310.00800) that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.
+* \[2024.08\] Part of my previous work on [multi-task self-suerpvised graph learning](https://openreview.net/forum?id=1tHAZRqftM) has been productionized for EBR retrieval of friend recommendation. Results are published in [this manuscript](https://arxiv.org/abs/2409.14682) at [RobustRecSysRecSys2024](https://coda.io/@rstless-group/robustrecsys)! Thanks for joint efforts from our engineers and scientists. 
 * \[2024.03\] I joined Snap Research as a research scientist. 
 * \[2023.09\] One [first-authored paper](https://arxiv.org/abs/2310.00800) about test-time augmentation for GNNs has been accepted to NeurIPS'23. See you in New Orleans.
-* \[2023.09\] I will serve as PCs for ICLR'24, WWW'24, SDM'24, and AAAI'24. 
+<!-- * \[2023.09\] I will serve as PCs for ICLR'24, WWW'24, SDM'24, and AAAI'24.  -->
 <!-- * \[2023.04\] I will serve as PCs for KDD'23 and NeurIPS'23.  -->
 <!-- * \[2023.01\] Thrilled to receive AAAI-23 student scholar. Thanks AAAI! -->
 * \[2023.01\] Three papers are accepted to ICLR'23! One first-authored one studies [multi-task self-suerpvised graph learning](https://openreview.net/forum?id=1tHAZRqftM). The others study [large language models for QA](https://openreview.net/forum?id=fB0hRu9GZUS) and [graph adversarial learning](https://openreview.net/forum?id=7jk5gWjC18M). Congrats to everyone involved!
 <!-- * \[2022.12\] I will join [Snap Research](https://research.snap.com) as a research intern for Summar 2023, mentored by [Dr. Tong Zhao](https://tzhao.io) and [Dr. Neil Shah](https://nshah.net).   -->
-* \[2022.11\] One first-authored paper about graph adversarial attack has been accepted to AAAI'23.
+<!-- * \[2022.11\] One first-authored paper about graph adversarial attack has been accepted to AAAI'23. -->
 <!-- * \[2022.10\] I will serve as a PC member for WWW'23. -->
-* \[2022.10\] One first-authored paper on open-domain question answering has been accepted to EMNLP'22. Big thanks to my collaborators and mentors!
+<!-- * \[2022.10\] One first-authored paper on open-domain question answering has been accepted to EMNLP'22. Big thanks to my collaborators and mentors! -->
 <!-- * \[2022.10\] Two amazing pre-prints are now available. One focuses on graph self-supervised learning and the other is about context generation for open-domain QA ! Please feel free to contact me if you have any comments or suggestions over the manuscripts. -->
 <!-- * \[2022.08\] I will serve as a PC member for AAAI'23.  -->
 <!-- * \[2022.07\] I have my personal website now :) -->
 
-Professional Experiences
+<!-- Professional Experiences
 ======
 
-* Research Engineer, [Snap Research](https://research.snap.com), Bellevue, WA, USA <br>
+* Research Scientist, [Snap Research](https://research.snap.com), Bellevue, WA, USA <br>
 Focus: Recommender Systems <br>
 Supervisor: [Neil Shah](https://nshah.net) <br>
 March, 2024 - Present  <br>
@@ -37,12 +41,16 @@ March, 2024 - Present  <br>
 * Research Intern, [Snap Research](https://research.snap.com), Seattle, WA, USA <br>
 Focus: Efficient Graph Neural Networks for Recommender Systems <br>
 Mentors: [Tong Zhao](https://tzhao.io), [Neil Shah](https://nshah.net), and [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en) <br>
-June - September, 2023 
+June - September, 2023  -->
 
 
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
+
+* How Does Message Passing Improve Collaborative Filtering?  <br>
+  **<u>M. Ju</u>**, W. Shiao, Z. Guo, Y. Ye, Y. Liu, N. Shah, T. Zhao <br>
+  NeurIPS 24 \[[pdf](https://arxiv.org/abs/2404.08660)\] \[[code](https://github.com/snap-research/Test-time-Aggregation-for-CF)\]
 
 * GraphPatcher: Mitigating Degree Bias for Graph Neural Networks via Test-time Augmentation <br>
   **<u>M. Ju</u>**, T. Zhao, W. Yu, N. Shah, Y. Ye <br>
@@ -68,9 +76,9 @@ Selected Publications
   **<u>M. Ju</u>**, W. Song, S. Sun, Y. Ye, Y. Fan, S. Hou, K. Loparo, L. Zhao <br>
   WWW 21 \[[pdf](https://dl.acm.org/doi/abs/10.1145/3442381.3449961)\] \[[code](https://github.com/www2021DrEmotion/www2021DrEmotion)\] -->
 
-* Heterogeneous Temporal Graph Neural Network <br>
+<!-- * Heterogeneous Temporal Graph Neural Network <br>
   Y. Fan, **<u>M. Ju</u>**, C. Zhang, Y. Ye <br>
-  SDM 22 \[[pdf](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.74)\] \[[code](https://github.com/YesLab-Code/HTGNN)\]
+  SDM 22 \[[pdf](https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.74)\] \[[code](https://github.com/YesLab-Code/HTGNN)\] -->
 
 \* stands for equal contribution.
 
