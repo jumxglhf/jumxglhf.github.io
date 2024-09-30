@@ -14,7 +14,7 @@ I am actively seeking for talented Ph.D. students to do research related to reco
 
 News
 ======
-* \[2024.09\] One [first-authored paper](https://arxiv.org/abs/2310.00800) that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.
+* \[2024.09\] One [first-authored paper](https://arxiv.org/abs/2404.08660) that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.
 * \[2024.08\] Part of my previous work on [multi-task self-suerpvised graph learning](https://openreview.net/forum?id=1tHAZRqftM) has been productionized for EBR retrieval of friend recommendation. Results are published in [this manuscript](https://arxiv.org/abs/2409.14682) at [RobustRecSysRecSys2024](https://coda.io/@rstless-group/robustrecsys)! Thanks for joint efforts from our engineers and scientists. 
 * \[2024.03\] I joined Snap Research as a research scientist. 
 * \[2023.09\] One [first-authored paper](https://arxiv.org/abs/2310.00800) about test-time augmentation for GNNs has been accepted to NeurIPS'23. See you in New Orleans.
