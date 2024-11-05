@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist in the [User Modeling & Personalization](https://research.snap.com/team/category/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My work focuses on graph machine learning, recommender systems, representation learning, and user modeling. I expect to receive a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
+I am a research scientist in the [User Modeling & Personalization](https://research.snap.com/team/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My primary focuses are recommender systems and user modeling, leveraging techniques including but not limited to graph machine learning, sequential modeling, natural language processing, etc. I received a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
 
 I am actively seeking for talented Ph.D. students to do research related to recommendation systems and generative IR. If you are intereted in those topics and would like to collaborate with me, feel free to email me :). Our team at Snap Research also has multiple [openings](https://snap.submittable.com/submit) for reseasrch interns for 2025.
 
 News
 ======
+* \[2024.11\] I defended my Ph.D. dissertation :relaxed:! 
 * \[2024.09\] One [first-authored paper](https://arxiv.org/abs/2404.08660) that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.
 * \[2024.08\] Part of my previous work on [multi-task self-suerpvised graph learning](https://openreview.net/forum?id=1tHAZRqftM) has been productionized for EBR retrieval of friend recommendation. Results are published in [this manuscript](https://arxiv.org/abs/2409.14682) at [RobustRecSysRecSys2024](https://coda.io/@rstless-group/robustrecsys)! Thanks for joint efforts from our engineers and scientists. 
 * \[2024.03\] I joined Snap Research as a research scientist. 
