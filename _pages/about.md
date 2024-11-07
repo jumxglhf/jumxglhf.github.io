@@ -47,7 +47,7 @@ June - September, 2023  -->
 Preprint(s):
 ======
 * Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
-  D. Loveland, X. Wu, T. Zhoa, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
+  D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
   arXiv \[[pdf](https://arxiv.org/abs/2410.23300)\]
 
 
