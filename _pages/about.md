@@ -44,6 +44,12 @@ Focus: Efficient Graph Neural Networks for Recommender Systems <br>
 Mentors: [Tong Zhao](https://tzhao.io), [Neil Shah](https://nshah.net), and [Yozen Liu](https://scholar.google.com/citations?user=i3U2JjEAAAAJ&hl=en) <br>
 June - September, 2023  -->
 
+Preprint(s):
+======
+* Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
+  D. Loveland, X. Wu, T. Zhoa, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
+  arXiv \[[pdf](https://arxiv.org/abs/2410.23300)\]
+
 
 Selected Publications
 ======
