@@ -15,4 +15,11 @@ Education
 * M.S. in Computer and Information Science, Case Western Reserve University, 2020
 * Ph.D in Computer Science, University of Notre Dame, 2024
 
-My CV can be downloaded \[[here](https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/clark_mingxuan_ju_resume.pdf?raw=true)\]. 
+If this browser does not support PDFs, please download the PDF for my CV to view it: <a href="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/clark_mingxuan_ju_resume.pdf?raw=true">Download PDF</a>.</p>
+
+<embed
+    data="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/clark_mingxuan_ju_resume.pdf"
+    type="application/pdf"
+    width="100%"
+    height="600px"
+/>
