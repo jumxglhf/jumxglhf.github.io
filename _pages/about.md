@@ -50,6 +50,14 @@ Preprint(s):
   D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
   arXiv \[[pdf](https://arxiv.org/abs/2410.23300)\]
 
+* GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems  <br>
+  X. Wu, D. Loveland, R. Chen, Y. Liu, X. Chen, L. Neves, A. Jadbabaie, **<u>M. Ju</u>**, N. Shah, T. Zhao  <br>
+  arXiv \[[pdf](https://arxiv.org/abs/2412.17245)\]
+
+* Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
+  R. Chen, **<u>M. Ju</u>**, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
+  arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
+
 
 Selected Publications
 ======
