@@ -17,4 +17,4 @@ Education
 
 If this browser does not support PDFs, please download the PDF for my CV to view it: <a href="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/clark_mingxuan_ju_resume.pdf?raw=true">Download PDF</a>.
 
-<iframe src="/images/clark_mingxuan_ju_resume.pdf&embedded=true" frameborder="0" id="myiframe" style="height:100%; width:100%;">
+<iframe src="http://docs.google.com/gview?url=/images/clark_mingxuan_ju_resume.pdf&embedded=true" frameborder="0" id="myiframe" style="height:100%; width:100%;">
