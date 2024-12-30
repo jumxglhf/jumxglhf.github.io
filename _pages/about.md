@@ -12,7 +12,7 @@ I am a research scientist in the [User Modeling & Personalization](https://resea
 
 I am actively seeking for talented Ph.D. students to do research related to recommendation systems and generative IR. If you are intereted in those topics and would like to collaborate with me, feel free to email me :). Our team at Snap Research also has multiple [openings](https://snap.submittable.com/submit) for reseasrch interns for 2025.
 
-News <button style="height:20px;width:100px" onclick="toggleHiddenItems()">Show More</button>
+News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
   <div>[2024.11] I defended my Ph.D. dissertation! Thanks for the supports from my advisor and committe members Profs. Fanny Ye, Nitesh Chawla, Walter Scheirer, and Xiangliang Zhang.</div>
