@@ -16,22 +16,33 @@ News
 ======
 <div id="news-container">
   <div>[2024.11] I defended my Ph.D. dissertation! Thanks for the supports from my advisor and committe members Profs. Fanny Ye, Nitesh Chawla, Walter Scheirer, and Xiangliang Zhang.</div>
+  <br>
   <div>[2024.09] One <a href="https://arxiv.org/abs/2404.08660">first-authored paper</a> that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.</div>
+  <br>
   <div>[2024.08] Part of my previous work on <a href="https://openreview.net/forum?id=1tHAZRqftM">multi-task self-suerpvised graph learning</a> has been productionized for EBR retrieval of friend recommendation. Results are published in <a href="https://arxiv.org/abs/2409.14682">this manuscript</a> at <a href="https://coda.io/@rstless-group/robustrecsys">RobustRecSysRecSys2024</a>! Thanks for joint efforts from our engineers and scientists.</div>
+  <br>
   <div id="hidden-items" style="display: none;">
     <div>[2024.03] I joined Snap Research as a research scientist.</div>
+    <br>
     <div>[2023.09] One <a href="https://arxiv.org/abs/2310.00800">first-authored paper</a> about test-time augmentation for GNNs has been accepted to NeurIPS'23. See you in New Orleans.</div>
+    <br>
     <!-- <div>[2023.09] I will serve as PCs for ICLR'24, WWW'24, SDM'24, and AAAI'24.</div> -->
     <!-- <div>[2023.04] I will serve as PCs for KDD'23 and NeurIPS'23.</div> -->
     <!-- <div>[2023.01] Thrilled to receive AAAI-23 student scholar. Thanks AAAI!</div> -->
     <div>[2023.01] Three papers are accepted to ICLR'23! One first-authored one studies <a href="https://openreview.net/forum?id=1tHAZRqftM">multi-task self-suerpvised graph learning</a>. The others study <a href="https://openreview.net/forum?id=fB0hRu9GZUS">large language models for QA</a> and <a href="https://openreview.net/forum?id=7jk5gWjC18M">graph adversarial learning</a>. Congrats to everyone involved!</div>
+    <br>
     <div>[2022.12] I will join <a href="https://research.snap.com">Snap Research</a> as a research intern for Summar 2023, mentored by <a href="https://tzhao.io">Dr. Tong Zhao</a> and <a href="https://nshah.net">Dr. Neil Shah</a>.</div>
+    <br>
     <div>[2022.11] One first-authored paper about graph adversarial attack has been accepted to AAAI'23.</div>
+    <br>
     <!-- <div>[2022.10] I will serve as a PC member for WWW'23.</div> -->
     <div>[2022.10] One first-authored paper on open-domain question answering has been accepted to EMNLP'22. Big thanks to my collaborators and mentors!</div>
+    <br>
     <div>[2022.10] Two amazing pre-prints are now available. One focuses on graph self-supervised learning and the other is about context generation for open-domain QA ! Please feel free to contact me if you have any comments or suggestions over the manuscripts.</div>
+    <br>
     <!-- <div>[2022.08] I will serve as a PC member for AAAI'23.</div> -->
     <div>[2022.07] I have my personal website now :)</div>
+    <br>
   </div>
   <button onclick="toggleHiddenItems()">Show More</button>
 </div>
