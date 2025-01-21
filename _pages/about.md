@@ -15,6 +15,8 @@ I am actively seeking for talented Ph.D. students to do research related to reco
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
+  <div>[2025.01] Two papers about RecSys are accepted to WWW 2025 and selected as oral presentations. <a href="https://arxiv.org/abs/2410.23300">One</a> studies the learning dynamic of RecSys models from the perspective of matrix rank to accelerate the training process; <a href="https://arxiv.org/abs/2412.17245">the other</a> studies RecSys model parameter reduction using graph-based hashing methods. Congrats to <a href="https://www.donaldloveland.com/">Donald</a> and <a href="https://xinyiwu98.github.io/">Xinyi</a>!</div>
+  <br>
   <div>[2024.11] I defended my Ph.D. dissertation! Thanks for the supports from my advisor and committe members Profs. Fanny Ye, Nitesh Chawla, Walter Scheirer, and Xiangliang Zhang.</div>
   <br>
   <div>[2024.09] One <a href="https://arxiv.org/abs/2404.08660">first-authored paper</a> that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.</div>
@@ -75,14 +77,6 @@ June - September, 2023  -->
 
 Preprint(s):
 ======
-* Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
-  D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
-  arXiv \[[pdf](https://arxiv.org/abs/2410.23300)\]
-
-* GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems  <br>
-  X. Wu, D. Loveland, R. Chen, Y. Liu, X. Chen, L. Neves, A. Jadbabaie, **<u>M. Ju</u>**, N. Shah, T. Zhao  <br>
-  arXiv \[[pdf](https://arxiv.org/abs/2412.17245)\]
-
 * Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
   R. Chen, **<u>M. Ju</u>**, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
@@ -91,6 +85,10 @@ Preprint(s):
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
+
+* Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
+  D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
+  WWW 2025 \[[pdf](https://arxiv.org/abs/2410.23300)\]
 
 * How Does Message Passing Improve Collaborative Filtering?  <br>
   **<u>M. Ju</u>**, W. Shiao, Z. Guo, Y. Ye, Y. Liu, N. Shah, T. Zhao <br>
@@ -130,5 +128,5 @@ Contact
 ======
 
 * Snap Email: mju \[at\] snap \[dot\] com
-* ND Email: mju2 \[at\] nd \[dot\] edu
+* ND Email (deprecated soon): mju2 \[at\] nd \[dot\] edu
 * Location: 110 110th Ave NE, Bellevue, WA

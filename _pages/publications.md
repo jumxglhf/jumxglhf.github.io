@@ -9,6 +9,14 @@ author_profile: true
 
 **Conference Papers**
 
+* Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
+  D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
+  WWW 2025 \[[pdf](https://arxiv.org/abs/2410.23300)\]
+
+* GraphHash: Graph Clustering Enables Parameter Efficiency in Recommender Systems  <br>
+  X. Wu, D. Loveland, R. Chen, Y. Liu, X. Chen, L. Neves, A. Jadbabaie, **<u>M. Ju</u>**, N. Shah, T. Zhao  <br>
+  WWW 2025 \[[pdf](https://arxiv.org/abs/2412.17245)\]
+
 * How Does Message Passing Improve Collaborative Filtering?  <br>
   **<u>M. Ju</u>**, W. Shiao, Z. Guo, Y. Ye, Y. Liu, N. Shah, T. Zhao <br>
   NeurIPS 24 \[[pdf](https://arxiv.org/abs/2404.08660)\] \[[code](https://github.com/snap-research/Test-time-Aggregation-for-CF)\]
