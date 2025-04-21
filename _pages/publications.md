@@ -9,6 +9,10 @@ author_profile: true
 
 **Conference Papers**
 
+* Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat <br>
+  **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, Y. Zhou, S. Nizam, R. Ozturk, Y. Liu, S. Yang, M. Malik, N. Shah <br>
+  SIGIR 2025 (Industrial Track) [pdf coming soon]
+
 * Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
   D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
   WWW 2025 \[[pdf](https://arxiv.org/abs/2410.23300)\]
