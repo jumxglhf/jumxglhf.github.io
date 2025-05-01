@@ -24,9 +24,9 @@ News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenIt
   <div>[2025.01] Two papers about RecSys are accepted to WWW 2025 and selected as oral presentations. <a href="https://arxiv.org/abs/2410.23300">One</a> studies the learning dynamic of RecSys models from the perspective of matrix rank to accelerate the training process; <a href="https://arxiv.org/abs/2412.17245">the other</a> studies RecSys model parameter reduction using graph-based hashing methods. Congrats to <a href="https://www.donaldloveland.com/">Donald</a> and <a href="https://xinyiwu98.github.io/">Xinyi</a>!</div>
   <br>
   <div>[2024.09] One <a href="https://arxiv.org/abs/2404.08660">first-authored paper</a> that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.</div>
+  <br>
   <div id="hidden-items" style="display: none;">
     <div>[2024.11] I defended my Ph.D. dissertation! Thanks for the supports from my advisor and committe members Profs. Fanny Ye, Nitesh Chawla, Walter Scheirer, and Xiangliang Zhang.</div>
-    <br>
     <br>
     <div>[2024.08] Part of my previous work on <a href="https://openreview.net/forum?id=1tHAZRqftM">multi-task self-suerpvised graph learning</a> has been productionized for EBR retrieval of friend recommendation. Results are published in <a href="https://arxiv.org/abs/2409.14682">this manuscript</a> at <a href="https://coda.io/@rstless-group/robustrecsys">RobustRecSysRecSys2024</a>! Thanks for joint efforts from our engineers and scientists.</div>
     <br>
