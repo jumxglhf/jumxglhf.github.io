@@ -9,9 +9,13 @@ author_profile: true
 
 **Conference Papers**
 
+* Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning <br>
+  N. Bui, M. Yang, R. Chen, L. Neves, **<u>M. Ju</u>**, R. Ying, N. Shah, T. Zhao <br>
+  ICML 2025 \[[pdf](https://openreview.net/forum?id=KUphSx7PAC)\]
+
 * Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, Y. Zhou, S. Nizam, R. Ozturk, Y. Liu, S. Yang, M. Malik, N. Shah <br>
-  SIGIR 2025 (Industrial Track) [pdf coming soon]
+  SIGIR 2025 \[[pdf](https://arxiv.org/abs/2504.21838)\]
 
 * Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
   D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>

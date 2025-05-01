@@ -8,23 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist in the [User Modeling & Personalization](https://research.snap.com/team/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My primary focuses are recommender systems and user modeling, leveraging techniques including but not limited to graph machine learning, sequential modeling, natural language processing, etc. I received a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Before that, I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/). 
+I am a research scientist in the [User Modeling & Personalization](https://research.snap.com/team/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My primary focuses include generative recommendation and representation learning in general. 
 
-I am actively seeking for talented Ph.D. students to do research related to recommendation systems and generative IR. If you are intereted in those topics and would like to collaborate with me, feel free to email me :). Our team at Snap Research also has multiple [openings](https://snap.submittable.com/submit) for reseasrch interns for 2025.
+Beofer joining Snap, I earned a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Prior to my Ph.D., I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/) with a focus on machine learning. 
+
+<!-- I am actively seeking for talented Ph.D. students to do research related to recommendation systems and generative IR. If you are intereted in those topics and would like to collaborate with me, feel free to email me :). Our team at Snap Research also has multiple [openings](https://snap.submittable.com/submit) for reseasrch interns for 2025. -->
 
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
-  <div>[2025.04] One paper that studies learning universal user representations leveraging cross-domain user intent has been accepted to the industrial track of SIGIR'25. Thanks for the joint efforts from scientists and engineers at Snapchat. See you in Italy.</div>
+  <div>[2025.05] One paper that studies <a href="https://openreview.net/forum?id=KUphSx7PAC">backward-compatible embedding learning</a> has been accepted to ICML'25. Congrats to <a href="https://ngocbh.github.io/">Ngoc</a>!</div>
+  <br>
+  <div>[2025.04] One paper that studies learning <a href="https://arxiv.org/abs/2504.21838">universal user representations</a> leveraging cross-domain user intent has been accepted to the industrial track of SIGIR'25. Thanks for the joint efforts from scientists and engineers at Snapchat. See you in Italy.</div>
   <br>
   <div>[2025.01] Two papers about RecSys are accepted to WWW 2025 and selected as oral presentations. <a href="https://arxiv.org/abs/2410.23300">One</a> studies the learning dynamic of RecSys models from the perspective of matrix rank to accelerate the training process; <a href="https://arxiv.org/abs/2412.17245">the other</a> studies RecSys model parameter reduction using graph-based hashing methods. Congrats to <a href="https://www.donaldloveland.com/">Donald</a> and <a href="https://xinyiwu98.github.io/">Xinyi</a>!</div>
   <br>
   <div>[2024.09] One <a href="https://arxiv.org/abs/2404.08660">first-authored paper</a> that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.</div>
-  <br>
-  <div>[2024.08] Part of my previous work on <a href="https://openreview.net/forum?id=1tHAZRqftM">multi-task self-suerpvised graph learning</a> has been productionized for EBR retrieval of friend recommendation. Results are published in <a href="https://arxiv.org/abs/2409.14682">this manuscript</a> at <a href="https://coda.io/@rstless-group/robustrecsys">RobustRecSysRecSys2024</a>! Thanks for joint efforts from our engineers and scientists.</div>
-  <br>
   <div id="hidden-items" style="display: none;">
     <div>[2024.11] I defended my Ph.D. dissertation! Thanks for the supports from my advisor and committe members Profs. Fanny Ye, Nitesh Chawla, Walter Scheirer, and Xiangliang Zhang.</div>
+    <br>
+    <br>
+    <div>[2024.08] Part of my previous work on <a href="https://openreview.net/forum?id=1tHAZRqftM">multi-task self-suerpvised graph learning</a> has been productionized for EBR retrieval of friend recommendation. Results are published in <a href="https://arxiv.org/abs/2409.14682">this manuscript</a> at <a href="https://coda.io/@rstless-group/robustrecsys">RobustRecSysRecSys2024</a>! Thanks for joint efforts from our engineers and scientists.</div>
     <br>
     <div>[2024.03] I joined Snap Research as a research scientist.</div>
     <br>
@@ -90,7 +94,7 @@ Selected Publications
 
 * Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, Y. Zhou, S. Nizam, R. Ozturk, Y. Liu, S. Yang, M. Malik, N. Shah <br>
-  SIGIR 2025 (Industrial Track) [pdf coming soon]
+  SIGIR 2025 \[[pdf](https://arxiv.org/abs/2504.21838)\]
 
 * Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
   D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
