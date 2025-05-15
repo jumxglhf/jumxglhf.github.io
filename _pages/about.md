@@ -17,16 +17,18 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
+  <div>[2025.05] Two papers are accepted to the research track at KDD'25. One paper studies the popularity bias of recommender systems and the other paper studies cross-domain sequential recommendation. See you in Toronto.</div>
+  <br>
   <div>[2025.05] One paper that studies <a href="https://openreview.net/forum?id=KUphSx7PAC">backward-compatible embedding learning</a> has been accepted to ICML'25. Congrats to <a href="https://ngocbh.github.io/">Ngoc</a>!</div>
   <br>
   <div>[2025.04] One paper that studies learning <a href="https://arxiv.org/abs/2504.21838">universal user representations</a> leveraging cross-domain user intent has been accepted to the industrial track of SIGIR'25. Thanks for the joint efforts from scientists and engineers at Snapchat. See you in Italy.</div>
   <br>
   <div>[2025.01] Two papers about RecSys are accepted to WWW 2025 and selected as oral presentations. <a href="https://arxiv.org/abs/2410.23300">One</a> studies the learning dynamic of RecSys models from the perspective of matrix rank to accelerate the training process; <a href="https://arxiv.org/abs/2412.17245">the other</a> studies RecSys model parameter reduction using graph-based hashing methods. Congrats to <a href="https://www.donaldloveland.com/">Donald</a> and <a href="https://xinyiwu98.github.io/">Xinyi</a>!</div>
   <br>
-  <div>[2024.09] One <a href="https://arxiv.org/abs/2404.08660">first-authored paper</a> that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.</div>
-  <br>
   <div id="hidden-items" style="display: none;">
     <div>[2024.11] I defended my Ph.D. dissertation! Thanks for the supports from my advisor and committe members Profs. Fanny Ye, Nitesh Chawla, Walter Scheirer, and Xiangliang Zhang.</div>
+    <br>
+    <div>[2024.09] One <a href="https://arxiv.org/abs/2404.08660">first-authored paper</a> that studies message passing for collaborative filtering has been accepted to NeurIPS'24. See you in Vancouver.</div>
     <br>
     <div>[2024.08] Part of my previous work on <a href="https://openreview.net/forum?id=1tHAZRqftM">multi-task self-suerpvised graph learning</a> has been productionized for EBR retrieval of friend recommendation. Results are published in <a href="https://arxiv.org/abs/2409.14682">this manuscript</a> at <a href="https://coda.io/@rstless-group/robustrecsys">RobustRecSysRecSys2024</a>! Thanks for joint efforts from our engineers and scientists.</div>
     <br>
@@ -92,13 +94,17 @@ Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
 
+* Revisiting Self-attention for Cross-domain Sequential Recommendation <br>
+  **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, S. Nizam, S. Yang, N. Shah <br>
+  KDD 25 \[[pdf coming soon](https://arxiv.org)\]
+
 * Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, Y. Zhou, S. Nizam, R. Ozturk, Y. Liu, S. Yang, M. Malik, N. Shah <br>
-  SIGIR 2025 \[[pdf](https://arxiv.org/abs/2504.21838)\]
+  SIGIR 25 \[[pdf](https://arxiv.org/abs/2504.21838)\]
 
 * Understanding and Scaling Collaborative Filtering Optimization from the Perspective of Matrix Rank  <br>
   D. Loveland, X. Wu, T. Zhao, D. Koutra, N. Shah, **<u>M. Ju</u>** <br>
-  WWW 2025 \[[pdf](https://arxiv.org/abs/2410.23300)\]
+  WWW 25 \[[pdf](https://arxiv.org/abs/2410.23300)\]
 
 * How Does Message Passing Improve Collaborative Filtering?  <br>
   **<u>M. Ju</u>**, W. Shiao, Z. Guo, Y. Ye, Y. Liu, N. Shah, T. Zhao <br>

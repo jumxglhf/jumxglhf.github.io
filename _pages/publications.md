@@ -9,6 +9,14 @@ author_profile: true
 
 **Conference Papers**
 
+* On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective <br>
+  D. Loveland, **<u>M. Ju</u>**, T. Zhao, N. Shah, D. Koutra <br>
+  KDD 25 \[[pdf coming soon](https://arxiv.org)\]
+
+* Revisiting Self-attention for Cross-domain Sequential Recommendation <br>
+  **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, S. Nizam, S. Yang, N. Shah <br>
+  KDD 25 \[[pdf coming soon](https://arxiv.org)\]
+
 * Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning <br>
   N. Bui, M. Yang, R. Chen, L. Neves, **<u>M. Ju</u>**, R. Ying, N. Shah, T. Zhao <br>
   ICML 2025 \[[pdf](https://openreview.net/forum?id=KUphSx7PAC)\]
