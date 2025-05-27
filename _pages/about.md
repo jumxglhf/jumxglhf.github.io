@@ -86,9 +86,24 @@ June - September, 2023  -->
 Preprint(s):
 ======
 * Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
-  R. Chen, **<u>M. Ju</u>**, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
+  R. Chen, M. Ju, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
 
+* Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction   <br>
+  Z. Qin, S. Zhang, M. Ju, T. Zhao, N. Shah, Y. Sun   <br>
+  arXiv \[[pdf](https://arxiv.org/pdf/2504.06193)\] 
+
+* Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics   <br>
+  J. Zhu, M. Ju, D Koutra, N. Shah, T. Zhao   <br>
+  arXiv \[[pdf](https://arxiv.org/pdf/2503.23333)\] 
+
+* One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs   <br>
+  J. Liu, H. Mao, Z. Chen, W. Fan, M. Ju, T. Zhao, N. Shah, J. Tang   <br>
+  arXiv \[[pdf](https://arxiv.org/pdf/2412.00315)\] 
+
+* Harec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems   <br>
+  Q. Ma, M. Yang, T. Zhao, N. Shah, R. Ying   <br>
+  arXiv \[[pdf](https://arxiv.org/pdf/2411.13865)\] 
 
 Selected Publications
 ======
