@@ -17,7 +17,7 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
-  <div>[2025.05] Two papers are accepted to the research track at KDD'25. One paper studies the popularity bias of recommender systems and the other paper studies cross-domain sequential recommendation. See you in Toronto.</div>
+  <div>[2025.05] Two papers are accepted to the research track at KDD'25. One paper studies <a href="https://arxiv.org/abs/2505.11318">the popularity bias of recommender systems</a> and the other paper studies <a href="https://arxiv.org/abs/2505.21811">cross-domain sequential recommendation</a>. See you in Toronto.</div>
   <br>
   <div>[2025.05] One paper that studies <a href="https://openreview.net/forum?id=KUphSx7PAC">backward-compatible embedding learning</a> has been accepted to ICML'25. Congrats to <a href="https://ngocbh.github.io/">Ngoc</a>!</div>
   <br>
@@ -111,7 +111,7 @@ Selected Publications
 
 * Revisiting Self-attention for Cross-domain Sequential Recommendation <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, S. Nizam, S. Yang, N. Shah <br>
-  KDD 25 \[[pdf coming soon](https://arxiv.org)\]
+  KDD 25 \[[pdf](https://arxiv.org/abs/2505.21811)\] \[[code](https://github.com/snap-research/AutoCDSR)\] 
 
 * Learning Universal User Representations Leveraging Cross-domain User Intent at Snapchat <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, Y. Zhou, S. Nizam, R. Ozturk, Y. Liu, S. Yang, M. Malik, N. Shah <br>

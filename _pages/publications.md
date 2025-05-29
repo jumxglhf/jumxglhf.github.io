@@ -11,11 +11,11 @@ author_profile: true
 
 * On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective <br>
   D. Loveland, **<u>M. Ju</u>**, T. Zhao, N. Shah, D. Koutra <br>
-  KDD 25 \[[pdf coming soon](https://arxiv.org)\]
+  KDD 25 \[[pdf](https://arxiv.org/abs/2505.11318)\] \[[code](https://github.com/snap-research/PRISM)\] 
 
 * Revisiting Self-attention for Cross-domain Sequential Recommendation <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, S. Nizam, S. Yang, N. Shah <br>
-  KDD 25 \[[pdf coming soon](https://arxiv.org)\]
+  KDD 25 \[[pdf](https://arxiv.org/abs/2505.21811)\] \[[code](https://github.com/snap-research/AutoCDSR)\] 
 
 * Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning <br>
   N. Bui, M. Yang, R. Chen, L. Neves, **<u>M. Ju</u>**, R. Ying, N. Shah, T. Zhao <br>
