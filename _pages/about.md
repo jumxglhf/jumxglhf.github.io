@@ -159,5 +159,5 @@ Contact
 ======
 
 * Snap Email: mju \[at\] snap \[dot\] com
-* ND Email mju2 \[at\] alumni \[dot\] nd \[dot\] edu
+* ND Alumni Email: mju2 \[at\] alumni \[dot\] nd \[dot\] edu
 * Location: 110 110th Ave NE, Bellevue, WA
