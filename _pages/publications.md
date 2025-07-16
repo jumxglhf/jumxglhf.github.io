@@ -9,6 +9,10 @@ author_profile: true
 
 **Conference Papers**
 
+* Non-parametric Graph Convolution for Re-ranking in Recommendation Systems <br>
+  Z. Ouyang\*, **<u>M. Ju</u>**\*, S. Vosoughi, Y. Ye <br>
+  RecSys 25 \[[pdf](https://arxiv.org/abs/2507.09969)\] 
+
 * On the Role of Weight Decay in Collaborative Filtering: A Popularity Perspective <br>
   D. Loveland, **<u>M. Ju</u>**, T. Zhao, N. Shah, D. Koutra <br>
   KDD 25 \[[pdf](https://arxiv.org/abs/2505.11318)\] \[[code](https://github.com/snap-research/PRISM)\] 
