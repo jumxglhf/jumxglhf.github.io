@@ -17,15 +17,17 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
+  <div>[2025.08] Our paper entitled <a href="https://arxiv.org/abs/2507.22224">"Generative Recommendation with Semantic IDs: A Practitioner's Handbook"</a> (in short GRID) has been accepted to CIKM'25. GRID is one of the first few public resources that produce state-of-the-art performance using generative recommendation models. Please check out GRID at <a href="https://github.com/snap-research/GRID"> our public repo</a>!</div>
+  <br>
   <div>[2025.07] One paper about <a href="https://arxiv.org/abs/2507.09969">re-ranking using graphs</a> is accepted to RecSys'25. Congrats to <a href="https://zyouyang.github.io/">Zhongyu</a>!</div>
   <br>
   <div>[2025.05] Two papers are accepted to the research track at KDD'25. One paper studies <a href="https://arxiv.org/abs/2505.11318">the popularity bias of recommender systems</a> and the other paper studies <a href="https://arxiv.org/abs/2505.21811">cross-domain sequential recommendation</a>. See you in Toronto.</div>
   <br>
-  <div>[2025.05] One paper that studies <a href="https://openreview.net/forum?id=KUphSx7PAC">backward-compatible embedding learning</a> has been accepted to ICML'25. Congrats to <a href="https://ngocbh.github.io/">Ngoc</a>!</div>
-  <br>
   <div>[2025.04] One paper that studies learning <a href="https://arxiv.org/abs/2504.21838">universal user representations</a> leveraging cross-domain user intent has been accepted to the industrial track of SIGIR'25. Thanks for the joint efforts from scientists and engineers at Snapchat. See you in Italy.</div>
   <br>
   <div id="hidden-items" style="display: none;">
+    <div>[2025.05] One paper that studies <a href="https://openreview.net/forum?id=KUphSx7PAC">backward-compatible embedding learning</a> has been accepted to ICML'25. Congrats to <a href="https://ngocbh.github.io/">Ngoc</a>!</div>
+    <br>
     <div>[2025.01] Two papers about RecSys are accepted to WWW 2025 and selected as oral presentations. <a href="https://arxiv.org/abs/2410.23300">One</a> studies the learning dynamic of RecSys models from the perspective of matrix rank to accelerate the training process; <a href="https://arxiv.org/abs/2412.17245">the other</a> studies RecSys model parameter reduction using graph-based hashing methods. Congrats to <a href="https://www.donaldloveland.com/">Donald</a> and <a href="https://xinyiwu98.github.io/">Xinyi</a>!</div>
     <br>
     <div>[2024.11] I defended my Ph.D. dissertation! Thanks for the supports from my advisor and committe members Profs. Fanny Ye, Nitesh Chawla, Walter Scheirer, and Xiangliang Zhang.</div>
@@ -91,25 +93,29 @@ Preprint(s):
   R. Chen, M. Ju, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
 
-* Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction   <br>
+<!-- * Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction   <br>
   Z. Qin, S. Zhang, M. Ju, T. Zhao, N. Shah, Y. Sun   <br>
-  arXiv \[[pdf](https://arxiv.org/pdf/2504.06193)\] 
+  arXiv \[[pdf](https://arxiv.org/pdf/2504.06193)\]  -->
 
 * Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics   <br>
   J. Zhu, M. Ju, D Koutra, N. Shah, T. Zhao   <br>
   arXiv \[[pdf](https://arxiv.org/pdf/2503.23333)\] 
 
-* One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs   <br>
+<!-- * One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs   <br>
   J. Liu, H. Mao, Z. Chen, W. Fan, M. Ju, T. Zhao, N. Shah, J. Tang   <br>
   arXiv \[[pdf](https://arxiv.org/pdf/2412.00315)\] 
 
 * Harec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems   <br>
   Q. Ma, M. Yang, T. Zhao, N. Shah, R. Ying   <br>
-  arXiv \[[pdf](https://arxiv.org/pdf/2411.13865)\] 
+  arXiv \[[pdf](https://arxiv.org/pdf/2411.13865)\]  -->
 
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
+
+* Generative Recommendation with Semantic IDs: A Practitioner's Handbook <br>
+  **<u>M. Ju</u>**, L. Collins, L. Neves, B. Kumar, Y. Wang, T. Zhao, N. Shah <br>
+  CIKM 25 \[[pdf](https://arxiv.org/abs/2507.22224)\] \[[code](https://github.com/snap-research/GRID)\] 
 
 * Revisiting Self-attention for Cross-domain Sequential Recommendation <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, S. Nizam, S. Yang, N. Shah <br>

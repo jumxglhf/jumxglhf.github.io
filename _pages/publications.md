@@ -9,6 +9,10 @@ author_profile: true
 
 **Conference Papers**
 
+* Generative Recommendation with Semantic IDs: A Practitioner's Handbook <br>
+  **<u>M. Ju</u>**, L. Collins, L. Neves, B. Kumar, Y. Wang, T. Zhao, N. Shah <br>
+  CIKM 25 \[[pdf](https://arxiv.org/abs/2507.22224)\] \[[code](https://github.com/snap-research/GRID)\] 
+
 * Non-parametric Graph Convolution for Re-ranking in Recommendation Systems <br>
   Z. Ouyang\*, **<u>M. Ju</u>**\*, S. Vosoughi, Y. Ye <br>
   RecSys 25 \[[pdf](https://arxiv.org/abs/2507.09969)\] 
