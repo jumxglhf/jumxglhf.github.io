@@ -117,8 +117,13 @@ author_profile: true
 
 **Journal Papers**
 
+
+* Node Duplication Improves Cold-start Link Prediction <br>
+  Z. Guo, T. Zhao, Y. Liu, K. Dong, W. Shiao, **<u>M. Ju</u>**, N. Shah, N. Chawla <br>
+  TMLR, 2025 \[[pdf](https://openreview.net/forum?id=hIOTzz87N9)\]
+
 * Exploring Contrast Consistency of Open-domain Question Answering Systems on Minimally Edited Questions <br>
-  Z. Zhang, W. Yu, Z. Ning,  **<u>M. Ju</u>**, M. Jiang <br>
+  Z. Zhang, W. Yu, Z. Ning, **<u>M. Ju</u>**, M. Jiang <br>
   TACL, 2023 \[[pdf](https://arxiv.org/pdf/2305.14441.pdf)\]  \[[code](https://github.com/ytyz1307zzh/Minimally_Edited_Questions)\] 
 
 * a-Satellite: An AI-Driven System and Benchmark Datasets for Dynamic COVID-19 Risk Assessment in the United States <br>
