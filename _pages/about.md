@@ -17,6 +17,8 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
+  <div>[2025.09] One paper about <a href="https://arxiv.org/abs/2507.09837">pre-training on relational databases</a> is accepted to NeurIPS'25. Congrats to <a href="https://quang-truong.github.io/">Quang</a>! See you in San Diego.</div>
+  <br>
   <div>[2025.08] Our paper entitled <a href="https://arxiv.org/abs/2507.22224">"Generative Recommendation with Semantic IDs: A Practitioner's Handbook"</a> (in short GRID) has been accepted to CIKM'25. GRID is one of the first few public resources that produce state-of-the-art performance using generative recommendation models. Please check out GRID at <a href="https://github.com/snap-research/GRID"> our public repo</a>!</div>
   <br>
   <div>[2025.07] One paper about <a href="https://arxiv.org/abs/2507.09969">re-ranking using graphs</a> is accepted to RecSys'25. Congrats to <a href="https://zyouyang.github.io/">Zhongyu</a>!</div>
@@ -89,6 +91,10 @@ June - September, 2023  -->
 
 Preprint(s):
 ======
+* Sequential Data Augmentation for Generative Recommendation  <br>
+  G. Lee, B. Kumar, M. Ju, T. Zhao, K. Shin, N. Shah, L. Collins  <br>
+  arXiv \[[pdf](https://arxiv.org/abs/2509.13648)\]
+  
 * Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
   R. Chen, M. Ju, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]

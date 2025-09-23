@@ -9,6 +9,10 @@ author_profile: true
 
 **Conference Papers**
 
+* A Pre-training Framework for Relational Data with Information-theoretic Principles <br>
+  Q. Truong, Z. Chen, **<u>M. Ju</u>**, T. Zhao, N. Shah, J. Tang <br>
+  NeurIPS 25 \[[pdf](https://arxiv.org/abs/2507.09837)\] 
+
 * Generative Recommendation with Semantic IDs: A Practitioner's Handbook <br>
   **<u>M. Ju</u>**, L. Collins, L. Neves, B. Kumar, Y. Wang, T. Zhao, N. Shah <br>
   CIKM 25 \[[pdf](https://arxiv.org/abs/2507.22224)\] \[[code](https://github.com/snap-research/GRID)\] 
