@@ -12,7 +12,7 @@ I am a research scientist in the [User Modeling & Personalization](https://resea
 
 Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Prior to my Ph.D., I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/) with a focus on machine learning. 
 
-**I am actively seeking research interns and university collaborations (funded or unfuned) to study recommendation systems and generative IR. Feel free to reach out me and I will get back to you asap if there is an alignment.**
+**I am actively seeking research interns and university collaborations (funded or unfunded) to study recommendation systems and generative IR. Feel free to reach out me and I will get back to you asap if there is an alignment.**
 
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
