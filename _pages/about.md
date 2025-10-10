@@ -17,7 +17,7 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
-  <div>[2025.10] We recently released a <a href="https://arxiv.org/pdf/2509.25522"> pre-print</a>! studying the scaling laws of generative recommendation! Please take a look and suggestions are welcomed. </div>
+  <div>[2025.10] We recently released a <a href="https://arxiv.org/pdf/2509.25522"> pre-print</a> studying the scaling laws of generative recommendation! Please take a look and suggestions are welcomed. </div>
     <br>
   <div>[2025.09] One paper about <a href="https://arxiv.org/abs/2507.09837">pre-training on relational databases</a> is accepted to NeurIPS'25. Congrats to <a href="https://quang-truong.github.io/">Quang</a>! See you in San Diego.</div>
   <br>
