@@ -8,6 +8,13 @@ author_profile: true
 <!-- **Pre-prints** -->
 
 **Conference Papers**
+* Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction   <br>
+  Z. Qin, S. Zhang, M. Ju, T. Zhao, N. Shah, Y. Sun   <br>
+  LOG 25 \[[pdf](https://arxiv.org/pdf/2504.06193)\] 
+
+* Sequential Data Augmentation for Generative Recommendation  <br>
+  G. Lee, B. Kumar, M. Ju, T. Zhao, K. Shin, N. Shah, L. Collins  <br>
+  WSDM 25 \[[pdf](https://arxiv.org/abs/2509.13648)\]
 
 * A Pre-training Framework for Relational Data with Information-theoretic Principles <br>
   Q. Truong, Z. Chen, **<u>M. Ju</u>**, T. Zhao, N. Shah, J. Tang <br>

@@ -17,6 +17,10 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
+  <div>[2025.10] Our paper <a href="https://arxiv.org/abs/2507.22224">"Generative Recommendation with Semantic IDs: A Practitioner's Handbook"</a> won the Best Paper Award at CIKM 25! Please take a look at <a href="https://github.com/snap-research/GRID"> our public repo</a>!</div>
+  <br>
+  <div>[2025.10] One paper that studies <a href="https://arxiv.org/abs/2509.13648">data augmentation for generative recommendation</a>  has been accepted to WSDM'25. Congrats to <a href="https://geonlee0325.github.io/">Geon</a>! See you in Boise. </div>
+  <br>
   <div>[2025.10] We recently released a <a href="https://arxiv.org/pdf/2509.25522"> pre-print</a> studying the scaling laws of generative recommendation! Please take a look and suggestions are welcomed. </div>
     <br>
   <div>[2025.09] One paper about <a href="https://arxiv.org/abs/2507.09837">pre-training on relational databases</a> is accepted to NeurIPS'25. Congrats to <a href="https://quang-truong.github.io/">Quang</a>! See you in San Diego.</div>
@@ -96,18 +100,11 @@ Preprint(s):
 * Understanding Generative Recommendation with Semantic IDs from a Model-scaling View <br>
   J. Liu, L. Collins, J. Tang, T. Zhao, N. Shah, M. Ju  <br>
   arXiv \[[pdf](https://arxiv.org/pdf/2509.25522)\]
-
-* Sequential Data Augmentation for Generative Recommendation  <br>
-  G. Lee, B. Kumar, M. Ju, T. Zhao, K. Shin, N. Shah, L. Collins  <br>
-  arXiv \[[pdf](https://arxiv.org/abs/2509.13648)\]
   
 * Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
   R. Chen, M. Ju, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
 
-<!-- * Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction   <br>
-  Z. Qin, S. Zhang, M. Ju, T. Zhao, N. Shah, Y. Sun   <br>
-  arXiv \[[pdf](https://arxiv.org/pdf/2504.06193)\]  -->
 
 * Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics   <br>
   J. Zhu, M. Ju, D Koutra, N. Shah, T. Zhao   <br>
@@ -127,7 +124,7 @@ Selected Publications
 
 * Generative Recommendation with Semantic IDs: A Practitioner's Handbook <br>
   **<u>M. Ju</u>**, L. Collins, L. Neves, B. Kumar, Y. Wang, T. Zhao, N. Shah <br>
-  CIKM 25 \[[pdf](https://arxiv.org/abs/2507.22224)\] \[[code](https://github.com/snap-research/GRID)\] 
+  CIKM 25 (**Best Paper Award**)\[[pdf](https://arxiv.org/abs/2507.22224)\] \[[code](https://github.com/snap-research/GRID)\] 
 
 * Revisiting Self-attention for Cross-domain Sequential Recommendation <br>
   **<u>M. Ju</u>**, L. Neves, B. Kumar, L. Collins, T. Zhao, Y. Qiu, C. Dou, S. Nizam, S. Yang, N. Shah <br>
