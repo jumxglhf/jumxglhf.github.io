@@ -6,10 +6,39 @@ author_profile: true
 ---
 Besides research, I enjoy playing video games, fishing, cooking, and photography. 
 
+## Research Assistance 
+I have a cutie sheltie to help my research :) His name is 大壮 (strong in English). 
+
+<ul>
+    <li>
+        <p>
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/dazhuang1.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+</ul>
+
 ## Photography
 I always bring my camera while traveling. 
 
 <ul>
+    <li>
+        <p>
+            The Enchantments Traverse (Fall 2025, Seattle, Washington)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo9.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Heliotrope Ridge Trail (Summer 2025, Seattle, Washington)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo10.png?raw=true?source=d16d100b">
+        </p>
+    </li>
+    <li>
+        <p>
+            Mt. Rainier (Summer 2025, Seattle, Washington)
+            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo8.png?raw=true?source=d16d100b">
+        </p>
+    </li>
     <li>
         <p>
             Grand Teton (Summer 2024, Teton, Wyoming)
