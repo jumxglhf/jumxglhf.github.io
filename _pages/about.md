@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist in the [User Modeling & Personalization](https://research.snap.com/team/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My primary focuses include generative recommendation and representation learning in general. 
+I am a Senior Research Scientist in the [User Modeling & Personalization](https://research.snap.com/team/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My primary focuses include generative recommendation and representation learning in general. 
 
 Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Prior to my Ph.D., I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/) with a focus on machine learning. 
 
