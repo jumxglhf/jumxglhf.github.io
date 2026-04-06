@@ -17,7 +17,7 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
-  <div>[2026.4] Three papers are accepted to ACL 26! One studies <a href="https://arxiv.org/abs/2601.12145">attention sink for LLMs</a>, one studies <a href="https://arxiv.org/abs/2511.14868">embedding extraction for decoder-only LLMs</a>, and the other studies <a href="https://arxiv.org/abs/2601.08816">agentic user memomory management for LLM-RecSys</a>. See you in San Diego! </div>
+  <div>[2026.4] Three papers are accepted to ACL 26! One studies <a href="https://arxiv.org/abs/2601.12145">attention sink for LLMs</a>, one studies <a href="https://arxiv.org/abs/2511.14868">embedding extraction for decoder-only LLMs</a>, and the other studies <a href="https://arxiv.org/abs/2601.08816">agentic user memory management for LLM-RecSys</a>. See you in San Diego! </div>
   <br>
   <div>[2026.4] One paper about <a href="https://google.com">practical deployment of Semantic IDs at Snapchat</a>  and another paper that studies <a href="https://arxiv.org/pdf/2503.23333">multimodal Semantic IDs</a> have been accepted to SIGIR 26. See you in Melbourne! </div>
   <br>
