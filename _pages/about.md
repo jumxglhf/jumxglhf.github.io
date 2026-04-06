@@ -123,7 +123,7 @@ Selected Publications
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
 
 * Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices   <br>
-  M. Ju*, T. Zhao*, L. Neves, L. Collins, B. Kumar, J. Ren, L. Zhang, W. Zhuo, V. Zhang, X. Bai, J. Li, K. Iyer, Z. Fan, Y. Xu, Y. Chen, P. Yu, M Malik, N. Shah   <br>
+  **<u>M. Ju</u>**\*, T. Zhao\*, L. Neves, L. Collins, B. Kumar, J. Ren, L. Zhang, W. Zhuo, V. Zhang, X. Bai, J. Li, K. Iyer, Z. Fan, Y. Xu, Y. Chen, P. Yu, M Malik, N. Shah   <br>
   SIGIR 26 \[[pdf](https://google.com)\] 
 
 * Generative Recommendation with Semantic IDs: A Practitioner's Handbook <br>
