@@ -17,6 +17,10 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
+  <div>[2026.4] Three papers are accepted to ACL 26! One studies <a href="https://arxiv.org/abs/2601.12145">attention sink for LLMs</a>, one studies <a href="https://arxiv.org/abs/2511.14868">embedding extraction for decoder-only LLMs</a>, and the other studies <a href="https://arxiv.org/abs/2601.08816">agentic user memomory management for LLM-RecSys</a>. See you in San Diego! </div>
+  <br>
+  <div>[2026.4] One paper about <a href="https://google.com">practical deployment of Semantic IDs at Snapchat</a>  and another paper that studies <a href="https://arxiv.org/pdf/2503.23333">multimodal Semantic IDs</a> have been accepted to SIGIR 26. See you in Melbourne! </div>
+  <br>
   <div>[2025.10] Our paper <a href="https://arxiv.org/abs/2507.22224">"Generative Recommendation with Semantic IDs: A Practitioner's Handbook"</a> won the Best Paper Award at CIKM 25! Please take a look at <a href="https://github.com/snap-research/GRID"> our public repo</a>!</div>
   <br>
   <div>[2025.10] One paper that studies <a href="https://arxiv.org/abs/2509.13648">data augmentation for generative recommendation</a>  has been accepted to WSDM'25. Congrats to <a href="https://geonlee0325.github.io/">Geon</a>! See you in Boise. </div>
@@ -106,10 +110,6 @@ Preprint(s):
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
 
 
-* Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics   <br>
-  J. Zhu, M. Ju, D Koutra, N. Shah, T. Zhao   <br>
-  arXiv \[[pdf](https://arxiv.org/pdf/2503.23333)\] 
-
 <!-- * One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs   <br>
   J. Liu, H. Mao, Z. Chen, W. Fan, M. Ju, T. Zhao, N. Shah, J. Tang   <br>
   arXiv \[[pdf](https://arxiv.org/pdf/2412.00315)\] 
@@ -121,6 +121,10 @@ Preprint(s):
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
+
+* Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices   <br>
+  M. Ju*, T. Zhao*, L. Neves, L. Collins, B. Kumar, J. Ren, L. Zhang, W. Zhuo, V. Zhang, X. Bai, J. Li, K. Iyer, Z. Fan, Y. Xu, Y. Chen, P. Yu, M Malik, N. Shah   <br>
+  SIGIR 26 \[[pdf](https://google.com)\] 
 
 * Generative Recommendation with Semantic IDs: A Practitioner's Handbook <br>
   **<u>M. Ju</u>**, L. Collins, L. Neves, B. Kumar, Y. Wang, T. Zhao, N. Shah <br>

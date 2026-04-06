@@ -8,6 +8,26 @@ author_profile: true
 <!-- **Pre-prints** -->
 
 **Conference Papers**
+* MemRec: Collaborative Memory-Augmented Agentic Recommender System   <br>
+  W. Chen, Y. Zhao, J. Huang, Z. Ye, M. Ju, T. Zhao, N. Shah, L. Chen, Y. Zhang   <br>
+  ACL 26 \[[pdf](https://arxiv.org/abs/2601.08816)\] 
+
+* Hierarchical Token Prepending: Enhancing Information Flow in Decoder-based LLM Embeddings   <br>
+  X. Ding, X. Huang, M. Ju, L. Collins, Y. Liu, L. Akoglu, N. Shah, T. Zhao   <br>
+  ACL 26 \[[pdf](https://arxiv.org/abs/2511.14868)\] 
+
+* Threshold Differential Attention for Sink-Free, Ultra-Sparse, and Non-Dispersive Language Modeling   <br>
+  X. Huang, X. Ding, M. Ju, Y. Liu, N. Shah, T. Zhao   <br>
+  ACL 26 \[[pdf](https://arxiv.org/abs/2601.12145)\] 
+
+* Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices   <br>
+  M. Ju*, T. Zhao*, L. Neves, L. Collins, B. Kumar, J. Ren, L. Zhang, W. Zhuo, V. Zhang, X. Bai, J. Li, K. Iyer, Z. Fan, Y. Xu, Y. Chen, P. Yu, M Malik, N. Shah   <br>
+  SIGIR 26 \[[pdf](https://google.com)\] 
+
+* Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics   <br>
+  J. Zhu, M. Ju, D Koutra, N. Shah, T. Zhao   <br>
+  SIGIR 26 \[[pdf](https://arxiv.org/pdf/2503.23333)\] 
+
 * Heuristic Methods are Good Teachers to Distill MLPs for Graph Link Prediction   <br>
   Z. Qin, S. Zhang, M. Ju, T. Zhao, N. Shah, Y. Sun   <br>
   LOG 25 \[[pdf](https://arxiv.org/pdf/2504.06193)\] 
