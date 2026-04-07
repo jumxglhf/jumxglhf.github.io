@@ -19,7 +19,7 @@ News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenIt
 <div id="news-container">
   <div>[2026.4] Three papers are accepted to ACL 26! One studies <a href="https://arxiv.org/abs/2601.12145">attention sink for LLMs</a>, one studies <a href="https://arxiv.org/abs/2511.14868">embedding extraction for decoder-only LLMs</a>, and the other studies <a href="https://arxiv.org/abs/2601.08816">agentic user memory management for LLM-RecSys</a>. See you in San Diego! </div>
   <br>
-  <div>[2026.4] One paper about <a href="https://google.com">practical deployment of Semantic IDs at Snapchat</a>  and another paper that studies <a href="https://arxiv.org/pdf/2503.23333">multimodal Semantic IDs</a> have been accepted to SIGIR 26. See you in Melbourne! </div>
+  <div>[2026.4] One paper about <a href="https://arxiv.org/abs/2604.03949">practical deployment of Semantic IDs at Snapchat</a>  and another paper that studies <a href="https://arxiv.org/pdf/2503.23333">multimodal Semantic IDs</a> have been accepted to SIGIR 26. See you in Melbourne! </div>
   <br>
   <div>[2025.10] Our paper <a href="https://arxiv.org/abs/2507.22224">"Generative Recommendation with Semantic IDs: A Practitioner's Handbook"</a> won the Best Paper Award at CIKM 25! Please take a look at <a href="https://github.com/snap-research/GRID"> our public repo</a>!</div>
   <br>
@@ -124,7 +124,7 @@ Selected Publications
 
 * Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices   <br>
   **<u>M. Ju</u>**\*, T. Zhao\*, L. Neves, L. Collins, B. Kumar, J. Ren, L. Zhang, W. Zhuo, V. Zhang, X. Bai, J. Li, K. Iyer, Z. Fan, Y. Xu, Y. Chen, P. Yu, M Malik, N. Shah   <br>
-  SIGIR 26 \[[pdf](https://google.com)\] 
+  SIGIR 26 \[[pdf](https://arxiv.org/abs/2604.03949)\] 
 
 * Generative Recommendation with Semantic IDs: A Practitioner's Handbook <br>
   **<u>M. Ju</u>**, L. Collins, L. Neves, B. Kumar, Y. Wang, T. Zhao, N. Shah <br>

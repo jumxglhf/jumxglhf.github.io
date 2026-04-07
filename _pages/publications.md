@@ -22,7 +22,7 @@ author_profile: true
 
 * Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices   <br>
   **<u>M. Ju</u>**\*, T. Zhao\*, L. Neves, L. Collins, B. Kumar, J. Ren, L. Zhang, W. Zhuo, V. Zhang, X. Bai, J. Li, K. Iyer, Z. Fan, Y. Xu, Y. Chen, P. Yu, M Malik, N. Shah   <br>
-  SIGIR 26 \[[pdf](https://google.com)\] 
+  SIGIR 26 \[[pdf](https://arxiv.org/abs/2604.03949)\] 
 
 * Beyond Unimodal Boundaries: Generative Recommendation with Multimodal Semantics   <br>
   J. Zhu, **<u>M. Ju</u>**, D Koutra, N. Shah, T. Zhao   <br>
