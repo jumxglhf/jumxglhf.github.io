@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist in the [User Modeling & Personalization](https://research.snap.com/team/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My primary focuses include generative recommendation and representation learning in general. 
+I am a Senior Research Scientist in the [User Modeling & Personalization](https://research.snap.com/team/user-modeling-and-personalization.html) team at [Snap Research](https://research.snap.com). My primary focuses include generative recommendation and agentic user understanding. 
 
 Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering from the [University of Notre Dame](https://www.nd.edu/) in 2024, advised by [Dr. Fanny Ye](http://yes-lab.org). Prior to my Ph.D., I received my B.S. and M.S. from [Case Western Reserve University](https://case.edu), supervised by [Dr. Soumya Ray](http://engr.case.edu/ray_soumya/) with a focus on machine learning. 
 
-**I am actively seeking research interns and university collaborations (funded or unfunded) to study recommendation systems and generative IR. Feel free to reach out and I will get back to you asap if there is an alignment.**
+**I am actively seeking research interns and university collaborations (funded or unfunded) in the space of IR and LLM. Feel free to reach out and I will get back to you asap if there is an alignment.**
 
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
@@ -108,6 +108,10 @@ Preprint(s):
 * Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
   R. Chen, M. Ju, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
+
+* Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation  <br>
+  Y. Hou, H. Kim, M. Ju, E. Escoto, N. Shah, J. McAuley
+  arXiv \[[pdf](https://arxiv.org/abs/2605.06331)\]
 
 
 <!-- * One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs   <br>

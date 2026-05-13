@@ -8,6 +8,10 @@ author_profile: true
 <!-- **Pre-prints** -->
 
 **Conference Papers**
+* Plain Transformers are Surprisingly Powerful Link Predictors   <br>
+  Q. Truong, Y. Song, D. Loveland, **<u>M. Ju</u>**, T. Zhao, N. Shah, J. Tang   <br>
+  ICML 26 \[[pdf](https://arxiv.org/abs/2602.01553)\] 
+
 * MemRec: Collaborative Memory-Augmented Agentic Recommender System   <br>
   W. Chen, Y. Zhao, J. Huang, Z. Ye, **<u>M. Ju</u>**, T. Zhao, N. Shah, L. Chen, Y. Zhang   <br>
   ACL 26 \[[pdf](https://arxiv.org/abs/2601.08816)\] 
