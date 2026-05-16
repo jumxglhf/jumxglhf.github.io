@@ -125,7 +125,7 @@ Selected Publications
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
 
 * Understanding Generative Recommendation with Semantic IDs from a Model-scaling View <br>
-  J. Liu, L. Collins, J. Tang, T. Zhao, N. Shah, M. Ju  <br>
+  J. Liu, L. Collins, J. Tang, T. Zhao, N. Shah, **<u>M. Ju</u>**  <br>
   KDD 26 \[[pdf](https://arxiv.org/abs/2509.25522)\]
 
 * Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices   <br>
