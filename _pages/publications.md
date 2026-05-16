@@ -8,6 +8,10 @@ author_profile: true
 <!-- **Pre-prints** -->
 
 **Conference Papers**
+* Understanding Generative Recommendation with Semantic IDs from a Model-scaling View <br>
+  J. Liu, L. Collins, J. Tang, T. Zhao, N. Shah, M. Ju  <br>
+  KDD 26 \[[pdf](https://arxiv.org/abs/2509.25522)\]
+
 * Plain Transformers are Surprisingly Powerful Link Predictors   <br>
   Q. Truong, Y. Song, D. Loveland, **<u>M. Ju</u>**, T. Zhao, N. Shah, J. Tang   <br>
   ICML 26 \[[pdf](https://arxiv.org/abs/2602.01553)\] 

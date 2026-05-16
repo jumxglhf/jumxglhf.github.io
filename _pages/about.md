@@ -17,6 +17,8 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
+  <div>[2026.5] One paper that studies <a href="https://arxiv.org/abs/2509.25522">the scaling behavior of generative recommenders</a> is accepted to KDD 26. Congrats to Jingzhe! See you in Korea. </div>
+  <br>
   <div>[2026.4] Three papers are accepted to ACL 26! One studies <a href="https://arxiv.org/abs/2601.12145">attention sink for LLMs</a>, one studies <a href="https://arxiv.org/abs/2511.14868">embedding extraction for decoder-only LLMs</a>, and the other studies <a href="https://arxiv.org/abs/2601.08816">agentic user memory management for LLM-RecSys</a>. See you in San Diego! </div>
   <br>
   <div>[2026.4] One paper about <a href="https://arxiv.org/abs/2604.03949">practical deployment of Semantic IDs at Snapchat</a>  and another paper that studies <a href="https://arxiv.org/pdf/2503.23333">multimodal Semantic IDs</a> have been accepted to SIGIR 26. See you in Melbourne! </div>
@@ -101,10 +103,6 @@ June - September, 2023  -->
 
 Preprint(s):
 ======
-* Understanding Generative Recommendation with Semantic IDs from a Model-scaling View <br>
-  J. Liu, L. Collins, J. Tang, T. Zhao, N. Shah, M. Ju  <br>
-  arXiv \[[pdf](https://arxiv.org/pdf/2509.25522)\]
-  
 * Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
   R. Chen, M. Ju, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
@@ -125,6 +123,10 @@ Preprint(s):
 Selected Publications
 ======
 \[[Full List](/publications)\] \[[Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ)\]
+
+* Understanding Generative Recommendation with Semantic IDs from a Model-scaling View <br>
+  J. Liu, L. Collins, J. Tang, T. Zhao, N. Shah, M. Ju  <br>
+  KDD 26 \[[pdf](https://arxiv.org/abs/2509.25522)\]
 
 * Semantic IDs for Recommender Systems at Snapchat: Use Cases, Technical Challenges, and Design Choices   <br>
   **<u>M. Ju</u>**\*, T. Zhao\*, L. Neves, L. Collins, B. Kumar, J. Ren, L. Zhang, W. Zhuo, V. Zhang, X. Bai, J. Li, K. Iyer, Z. Fan, Y. Xu, Y. Chen, P. Yu, M Malik, N. Shah   <br>
