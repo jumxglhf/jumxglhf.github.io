@@ -17,7 +17,7 @@ Before joining Snap, I earned a Ph.D. degree in Computer Science and Engineering
 News <button style="font-size: 12px; padding: 5px 10px;" onclick="toggleHiddenItems()">Show More</button>
 ======
 <div id="news-container">
-  <div>[2026.5] One paper that studies <a href="https://arxiv.org/abs/2509.25522">the scaling behavior of generative recommenders</a> is accepted to KDD 26. Congrats to Jingzhe! See you in Korea. </div>
+  <div>[2026.5] One paper that studies <a href="https://arxiv.org/abs/2509.25522">the scaling behavior of generative recommenders</a> is accepted to KDD 26. Congrats to <a href="https://liu-jingzhe.github.io/personalpage">Jingzhe</a>! See you in Korea. </div>
   <br>
   <div>[2026.4] Three papers are accepted to ACL 26! One studies <a href="https://arxiv.org/abs/2601.12145">attention sink for LLMs</a>, one studies <a href="https://arxiv.org/abs/2511.14868">embedding extraction for decoder-only LLMs</a>, and the other studies <a href="https://arxiv.org/abs/2601.08816">agentic user memory management for LLM-RecSys</a>. See you in San Diego! </div>
   <br>
