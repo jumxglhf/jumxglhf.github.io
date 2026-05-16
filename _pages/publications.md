@@ -12,6 +12,10 @@ author_profile: true
   J. Liu, L. Collins, J. Tang, T. Zhao, N. Shah, **<u>M. Ju</u>**  <br>
   KDD 26 \[[pdf](https://arxiv.org/abs/2509.25522)\]
 
+* Breaking Information Cocoons: A Hyperbolic Framework for Balancing Exploration and Exploitation in Recommender Systems <br>
+  Q. Ma, M. Yang, **<u>M. Ju</u>**, T. Zhao, N. Shah, R. Ying  <br>
+  KDD 26 \[[pdf](https://arxiv.org/abs/2411.13865)\]
+
 * Plain Transformers are Surprisingly Powerful Link Predictors   <br>
   Q. Truong, Y. Song, D. Loveland, **<u>M. Ju</u>**, T. Zhao, N. Shah, J. Tang   <br>
   ICML 26 \[[pdf](https://arxiv.org/abs/2602.01553)\] 
