@@ -103,13 +103,21 @@ June - September, 2023  -->
 
 Preprint(s):
 ======
+* Self-supervised User Profile Generation for Personalization  <br>
+  M. Ju, Y. Qiu, T. Zhao, N. Shah <br>
+  arXiv \[[pdf](https://arxiv.org/abs/2606.05336)\]
+
 * Enhancing Item Tokenization for Generative Recommendation through Self-Improvement  <br>
   R. Chen, M. Ju, N. Bui, D. Antypas, S. Cai, X. Wu, L. Neves, Z. Wang, N. Shah, T. Zhao  <br>
   arXiv \[[pdf](https://arxiv.org/abs/2412.17171)\]
 
 * Expressiveness Limits of Autoregressive Semantic ID Generation in Generative Recommendation  <br>
-  Y. Hou, H. Kim, M. Ju, E. Escoto, N. Shah, J. McAuley
+  Y. Hou, H. Kim, M. Ju, E. Escoto, N. Shah, J. McAuley <br>
   arXiv \[[pdf](https://arxiv.org/abs/2605.06331)\]
+
+* MLPs are Efficient Distilled Generative Recommenders  <br>
+  Z. Guo, Y. Hou, M. Ju, N. Shah, J. McAuley <br>
+  arXiv \[[pdf](https://arxiv.org/abs/2605.12617)\]
 
 
 <!-- * One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs   <br>
