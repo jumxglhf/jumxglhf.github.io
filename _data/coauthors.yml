@@ -1,0 +1,13 @@
+# Frequent coauthors whose names should be linked in the publications list.
+# Keyed by lowercase last name; the firstname list disambiguates coauthors sharing a last name.
+"zhao":
+  - firstname: ["Tong", "T."]
+    url: https://tzhao.io
+
+"shah":
+  - firstname: ["Neil", "N."]
+    url: https://nshah.net
+
+"ye":
+  - firstname: ["Yanfang", "Y.", "Yanfang (Fanny)"]
+    url: http://yes-lab.org

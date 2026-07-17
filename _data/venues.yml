@@ -1,0 +1,6 @@
+# Optional per-venue metadata for the publications page.
+# Keys must match the `abbr` field of entries in _bibliography/papers.bib.
+# Example:
+# "KDD":
+#   url: https://kdd.org/
+#   color: "#00369f"

@@ -1,0 +1,8 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: mju@snap.com # your email address
+scholar_userid: qNoO67AAAAAJ # your Google Scholar ID
+github_username: jumxglhf # your GitHub username
+linkedin_username: clark-mingxuan-ju-80a342151 # your LinkedIn username
+cv_pdf: /assets/pdf/clark_mingxuan_ju_resume.pdf # path to your CV PDF file

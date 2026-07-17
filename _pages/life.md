@@ -1,136 +1,156 @@
 ---
-layout: archive
-title: "My Life"
+layout: page
+title: life
 permalink: /life/
-author_profile: true
+description: Besides research, I enjoy playing video games, fishing, cooking, and photography.
+nav: true
+nav_order: 4
 ---
-Besides research, I enjoy playing video games, fishing, cooking, and photography. 
 
-## Research Assistance 
-I have a cutie sheltie to help my research :) His name is 大壮 (strong in English). 
+## Research Assistance
 
-<ul>
-    <li>
-        <p>
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/dazhuang1.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-</ul>
+I have a cutie sheltie to help my research :) His name is 大壮 (strong in English).
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/life/dazhuang1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## Photography
-I always bring my camera while traveling. 
 
-<ul>
-    <li>
-        <p>
-            The Enchantments Traverse (Fall 2025, Seattle, Washington)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo9.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Heliotrope Ridge Trail (Summer 2025, Seattle, Washington)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo10.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Mt. Rainier (Summer 2025, Seattle, Washington)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo8.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Grand Teton (Summer 2024, Teton, Wyoming)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo5.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Mt. Rainier (Summer 2024, Seattle, Washington)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo6.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Gold Creek Lake (Fall 2024, Seattle, Washington)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo7.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Flowers from an apple tree (should be apple tree, Summer 2022, Notre Dame, Indiana)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo1.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Basilica of the Sacred Heart at University of Notre Dame (Summer 2022, Notre Dame, Indiana)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo2.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Mt. Rainier (Summer 2023, Seattle, Washington)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo3.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Autumn season in Ohio (Fall 2016, Cleveland, Ohio)
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/photo4.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-</ul>
+I always bring my camera while traveling.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo9.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">The Enchantments Traverse (Fall 2025, Seattle, Washington)</div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo10.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Heliotrope Ridge Trail (Summer 2025, Seattle, Washington)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo8.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Mt. Rainier (Summer 2025, Seattle, Washington)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo5.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Grand Teton (Summer 2024, Teton, Wyoming)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo6.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Mt. Rainier (Summer 2024, Seattle, Washington)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo7.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Gold Creek Lake (Fall 2024, Seattle, Washington)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Flowers from an apple tree (should be apple tree, Summer 2022, Notre Dame, Indiana)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Basilica of the Sacred Heart at University of Notre Dame (Summer 2022, Notre Dame, Indiana)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Mt. Rainier (Summer 2023, Seattle, Washington)</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/photo4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Autumn season in Ohio (Fall 2016, Cleveland, Ohio)</div>
 
 ## Video Games
 
-<ul>
-    <li>
-        <p>
-            DOTA2
-            <br>
-              I started playing DOTA back to 2013 and have been spending over 10k hours on this game. My favorite position is mid lane and my signature heros are Shadow Fiend and Ember Spirit. Before I began my PhD journey, I hit my personal record MMR of 6.8K and it was ranked around 100 in the NA server. I am very proud of it even though my skills right now regressed a lot due to work and research. 
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/dota.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-</ul>
+**DOTA2.** I started playing DOTA back in 2013 and have been spending over 10k hours on this game. My favorite position is mid lane and my signature heroes are Shadow Fiend and Ember Spirit. Before I began my PhD journey, I hit my personal record MMR of 6.8K and it was ranked around 100 in the NA server. I am very proud of it even though my skills right now regressed a lot due to work and research.
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/dota.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
-## Fishing and my catches
-I was born in Qingdao, a coastal city in northern China. I really like fishing thanks to my dad. When I was a kid my dad used to bringing me to fishing charters a lot. Below are some of my recent catches during my internship in Seattle. 
+## Fishing and My Catches
 
-<ul>
-    <li>
-        <p>
-            Pacific Halibut
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/fish4.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Coho Salmon
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/fish1.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Sashimi Don made out of these fishes
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/fish2.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-    <li>
-        <p>
-            Lingcod
-            <img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/fish3.png?raw=true?source=d16d100b">
-        </p>
-    </li>
-</ul>
+I was born in Qingdao, a coastal city in northern China. I really like fishing thanks to my dad. When I was a kid my dad used to bring me to fishing charters a lot. Below are some of my recent catches during my internship in Seattle.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/fish4.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Pacific Halibut</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/fish1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Coho Salmon</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/fish2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Sashimi Don made out of these fishes</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/fish3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+<div class="caption">Lingcod</div>
 
 ## Cooking
-I am foody and love to try cuisines across different regions and countries. After each paper deadline, I usually treat myself by making myself a nice dinner. Below are some dishes that I made from scratch. 
-<img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/food1.png?raw=true?source=d16d100b">
-<img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/food2.png?raw=true?source=d16d100b">
-<img src="https://github.com/jumxglhf/jumxglhf.github.io/blob/master/images/food3.png?raw=true?source=d16d100b">
+
+I am foody and love to try cuisines across different regions and countries. After each paper deadline, I usually treat myself by making myself a nice dinner. Below are some dishes that I made from scratch.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/food1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/food2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/life/food3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>

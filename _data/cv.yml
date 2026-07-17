@@ -1,0 +1,127 @@
+cv:
+  name: Mingxuan (Clark) Ju
+  label: Senior Research Scientist
+  email: mju@snap.com
+  website: https://jumxglhf.github.io
+  summary: >-
+    Senior Research Scientist at Snap Research working on generative recommendation and
+    agentic user understanding. I design large-scale generative models and LLM-driven
+    agentic systems that power production recommender systems at Snapchat.
+
+  address:
+    street: 110 110th Ave NE
+    city: Bellevue
+    region: WA
+    postalCode: "98004"
+    countryCode: US
+
+  sections:
+    Education:
+      - institution: University of Notre Dame
+        location: Notre Dame, IN
+        url: https://www.nd.edu/
+        area: Computer Science & Engineering
+        studyType: Ph.D.
+        start_date: 2020-04
+        end_date: 2024-11
+        highlights:
+          - "Advisor: Dr. Yanfang (Fanny) Ye"
+          - "Dissertation: Cost-effective Machine Learning Techniques for Graphs"
+
+      - institution: Case Western Reserve University
+        location: Cleveland, OH
+        url: https://case.edu/
+        area: Computer and Information Science
+        studyType: M.S.
+        start_date: 2019-06
+        end_date: 2020-03
+
+      - institution: Case Western Reserve University
+        location: Cleveland, OH
+        url: https://case.edu/
+        area: Computer Science
+        studyType: B.S.
+        start_date: 2015-08
+        end_date: 2019-05
+
+    Experience:
+      - company: Snap Research at Snap Inc., manager Dr. Neil Shah
+        position: Senior Research Scientist
+        location: Bellevue, WA
+        url: https://research.snap.com
+        start_date: 2026-04
+        end_date: present
+        highlights:
+          - Design and integrate LLM-driven agentic systems to enhance user profiling and understanding within production recommendation.
+          - Translate research outcomes into production impacts at multiple surfaces at Snap including Content, Ads, and Growth.
+
+      - company: Snap Research at Snap Inc., manager Dr. Neil Shah
+        position: Research Scientist
+        location: Bellevue, WA
+        url: https://research.snap.com
+        start_date: 2024-03
+        end_date: 2026-04
+        highlights:
+          - Research and develop large-scale generative models to improve production recommender systems.
+          - Mentor research interns and produce research outcomes that deliver both internal product impact and academic publications.
+
+      - company: Snap Research at Snap Inc., supervisors Dr. Tong Zhao and Dr. Neil Shah
+        position: Research Intern
+        location: Seattle, WA
+        url: https://research.snap.com
+        start_date: 2023-06
+        end_date: 2023-10
+        highlights:
+          - Efficient GNNs for RecSys, with significant performance improvement (~10%) at only ~1% additional overhead (NeurIPS 2024).
+          - Performant multi-task GNNs for user modeling, launched for embedding-based retrieval for friend recommendation (RecSys 2024 workshop).
+
+    Honors and Awards:
+      - title: Best Paper Award
+        date: 2025-10
+        awarder: CIKM 2025
+      - title: Outstanding Research Assistant Award
+        date: 2025-05
+        awarder: Notre Dame Computer Science & Engineering
+      - title: Eli J. and Helen Shaheen Award Nominee
+        date: 2025-04
+        awarder: University of Notre Dame
+      - title: Student Scholar
+        date: 2023-12
+        awarder: NeurIPS 2023
+      - title: Student Scholar
+        date: 2023-01
+        awarder: AAAI 2023
+      - title: Best Paper Award Shortlist
+        date: 2021-03
+        awarder: WWW 2021
+      - title: 3rd Place Award, FEMH Cup
+        date: 2019-01
+        awarder: IEEE Big Data 2018
+      - title: Support of Undergraduate Research and Creative Endeavors
+        date: 2018-11
+        awarder: Case Western Reserve University
+
+    Academic Services:
+      - bullet: Organizer of the Learning on Graphs (LoG) conference mid-north meetup.
+      - bullet: "Conference reviewer / PC member: ICLR 24/25/26; NeurIPS 23/24/25; ICML 24/25; AAAI 22/23/24/25; KDD 22/23/24/25/26; WWW 24; SDM 23/24/25; WSDM 22; ICDM 21/22; AISTATS 25."
+
+    Mentorship:
+      - bullet: Sunkyung Lee (Ph.D. student at Sungkyunkwan University & Research Intern at Snap Inc., 2026)
+      - bullet: Sunwoo Kim (Ph.D. student at KAIST & Research Intern at Snap Inc., 2026)
+      - bullet: Zaiyi Zheng (Ph.D. student at University of Virginia, 2024-2025 & Research Intern at Snap Inc., 2025)
+      - bullet: Xingyue Huang (Ph.D. student at University of Oxford & Research Intern at Snap Inc., 2025)
+      - bullet: Xueying Ding (Ph.D. student at Carnegie Mellon University & Research Intern at Snap Inc., 2025)
+      - bullet: Yunzhu Pan (Master's student at UC San Diego & Research Intern at Snap Inc., 2025)
+      - bullet: Nidhi Hegde (Master's student at Carnegie Mellon University & Applied Science Intern at Snap Inc., 2025)
+      - bullet: Geon Lee (Ph.D. student at KAIST & Research Intern at Snap Inc., 2025)
+      - bullet: Jingzhe Liu (Ph.D. student at Michigan State University, 2024-2025 & Research Intern at Snap Inc., 2025)
+      - bullet: Donald Loveland (Ph.D. student at University of Michigan at Ann Arbor, 2024-2025; Research Intern at Snap Inc., 2024)
+      - bullet: Jing Zhu (Ph.D. student at University of Michigan at Ann Arbor, 2024-2025; Research Intern at Snap Inc., 2024-2025)
+      - bullet: Ngoc Bui (Ph.D. student at Yale University, 2024-2025; Research Intern at Snap Inc., 2024)
+      - bullet: Haitao Mao (Ph.D. student at Michigan State University, 2024-2025; Research Intern at Snap Inc., 2024-2025)
+      - bullet: Runjin Chen (Ph.D. student at University of Texas at Austin, 2024; Research Intern at Snap Inc., 2024)
+      - bullet: Xinyi Wu (Ph.D. student at Massachusetts Institute of Technology, 2024; Research Intern at Snap Inc., 2024)
+      - bullet: Dimosthenis Antypas (Ph.D. student at Cardiff University, 2024; Research Intern at Snap Inc., 2024)
+      - bullet: Norman Knyazev (Ph.D. student at Radboud University, 2024; Research Intern at Snap Inc., 2024)
+      - bullet: Zheyuan Zhang (Ph.D. student at University of Notre Dame, 2023-2024)
+      - bullet: Zhongyu Ouyang (Ph.D. student at University of Notre Dame, 2023-2024)
