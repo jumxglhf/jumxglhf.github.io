@@ -2,12 +2,14 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Full list in reversed chronological order. Also see my <a href="https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ">Google Scholar</a>. * stands for equal contribution.
+description: Full list in reversed chronological order. * stands for equal contribution.
 nav: true
 nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
+
+Also see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=qNoO67AAAAAJ) profile.
 
 <!-- Bibsearch Feature -->
 
