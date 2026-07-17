@@ -70,12 +70,64 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- News -->
+    <!-- News (local override: show the latest N with a show-more expander) -->
     {% if page.announcements and page.announcements.enabled %}
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
-      {% include news.liquid limit=true %}
+      <div class="news">
+        {% if site.news != blank %}
+          {% assign news = site.news | reverse %}
+          {% assign news_size = site.news | size %}
+          {% assign visible_count = page.announcements.limit | default: 5 %}
+          <div class="table-responsive">
+            <table class="table table-sm table-borderless">
+              {% for item in news limit: visible_count %}
+                <tr>
+                  <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+                  <td>
+                    {% if item.inline %}
+                      {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                    {% else %}
+                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {% endif %}
+                  </td>
+                </tr>
+              {% endfor %}
+            </table>
+            {% if news_size > visible_count %}
+              <div id="news-more" style="display: none">
+                <table class="table table-sm table-borderless">
+                  {% for item in news offset: visible_count %}
+                    <tr>
+                      <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
+                      <td>
+                        {% if item.inline %}
+                          {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+                        {% else %}
+                          <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                        {% endif %}
+                      </td>
+                    </tr>
+                  {% endfor %}
+                </table>
+              </div>
+              <button id="news-toggle" class="btn btn-sm z-depth-0" type="button" onclick="toggleNews()">show more</button>
+              <script>
+                function toggleNews() {
+                  var more = document.getElementById('news-more');
+                  var btn = document.getElementById('news-toggle');
+                  var open = more.style.display !== 'none';
+                  more.style.display = open ? 'none' : 'block';
+                  btn.textContent = open ? 'show more' : 'show less';
+                }
+              </script>
+            {% endif %}
+          </div>
+        {% else %}
+          <p>No news so far...</p>
+        {% endif %}
+      </div>
     {% endif %}
 
     <!-- Latest posts -->
